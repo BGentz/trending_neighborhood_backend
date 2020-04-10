@@ -29,8 +29,6 @@ with open(f'./{filename}.json') as f:
 
 
 for line in data:
-# district.append(line['district')
-# subdistrict.append(line['subdistrict')
   lat.append(line['lat'])
   lon.append(line['lon'])
   walkscore.append(line['walkscore'])
@@ -59,14 +57,21 @@ output = []
 
 for index in range(0, len(data)):
     print(index)
-    output.append({'lat': float(data[index][1][0]), 'lon': float(data[index][1][1]),
-                   'walkscore': float(data[index][1][2]), 'grocery': float(data[index][1][3]),
-                   'parks': float(data[index][1][4]), 'errands': float(data[index][1][5]),
-                   'drinks': float(data[index][1][6]), 'shopping': float(data[index][1][7]),
-                   'culture': float(data[index][1][8]), 'schools': float(data[index][1][9]),
-                   'transit': float(data[index][1][10]), 'bike': float(data[index][1][11])
+    output.append({'Neighborhood': 'Neighborhood goes here',
+                   'Overall Score': 'Overall score goes here',
+                   'breakdown': {
+                     'Walkability': math.floor(float(data[index][1][2])),
+                     'Groceries': math.floor(float(data[index][1][3])),
+                     'Parks': math.floor(float(data[index][1][4])),
+                     'Errands': math.floor(float(data[index][1][5])),
+                     'Restaurants and Bars': math.floor(float(data[index][1][6])),
+                     'Shopping': math.floor(float(data[index][1][7])),
+                     'Entertainment': math.floor(float(data[index][1][8])),
+                     'Schools': math.floor(float(data[index][1][9])),
+                     'Public Transit': math.floor(float(data[index][1][10])),
+                     'Biking': math.floor(float(data[index][1][11]))
+                   }
                    })
 
-
-with open(f'./{filename}_data.json', 'w') as outfile:
+with open(f'./{filename}_output.json', 'w') as outfile:
     json.dump(output, outfile)

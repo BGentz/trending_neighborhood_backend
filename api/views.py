@@ -12,6 +12,6 @@ def user_submit(request):
     print(received)
     message_data = predict()
     print(message_data)
-    return JsonResponse(data=message_data, status=200)
+    return JsonResponse(data=message_data, safe=False, status=200)
     # if request.method == "POST":
     #     print(request.body)
