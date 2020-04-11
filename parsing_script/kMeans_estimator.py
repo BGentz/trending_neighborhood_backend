@@ -9,6 +9,12 @@ from IPython import embed
 # from .models import Neighborhoods
 
 def cluster_and_rank(preferences=None):
+  # might refactor the preferences to accept dictionary so it's order independent
+  """
+  if no preferences are given, then the results are the same methodology as the original
+  preferences should be in list form in this order:
+  [walkscore, grocery, parks, errands, drink, shopping, culture, schools, transit, bike]
+  """
   # consider changing file manipulation to django query if this is incorporated in the backend
   filename = 'zillow_city_scrapes_converted'
 
