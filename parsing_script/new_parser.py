@@ -1,8 +1,9 @@
 import pandas as pd
 import json
 import math
+from IPython import embed
 
-with open('./city_scrapes.json') as f:
+with open('./zillow_city_scrapes.json') as f:
   data = json.load(f)
 
 parsed = []
@@ -20,7 +21,8 @@ for index, value in enumerate(data):
 
     for subindex in range (0, len(data[index][key])):
         breakdown_name = data[index][key][subindex]['name']
-        breakdown_score = math.floor(float(data[index][key][subindex]['score']))
+        breakdown_score = float(data[index][key][subindex]['score'])
+        # breakdown_score = math.floor(float(data[index][key][subindex]['score']))
 
         if(breakdown_name == 'Dining & Drinking'):
             breakdown_name = 'Restaurants and Bars'
@@ -38,8 +40,7 @@ for index, value in enumerate(data):
             breakdown_name = 'Biking'
 
         breakdown.append([breakdown_name, breakdown_score])
-
-
+    
     parsed.append({'Neighborhood': neighborhood,
                    'Overall Score': 'Score here',
                    'breakdown': {
@@ -58,5 +59,5 @@ for index, value in enumerate(data):
                     }
                   )
 
-with open(f'./city_scrapes_converted.json', 'w') as outfile:
+with open(f'./zillow_city_scrapes_converted.json', 'w') as outfile:
     json.dump(parsed, outfile)

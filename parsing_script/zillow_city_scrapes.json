@@ -1,0 +1,7265 @@
+[{
+  "Heart of Italy": [{
+    "name": "Dining & Drinking",
+    "score": 85.7948150635
+  }, {
+    "name": "Groceries",
+    "score": 85.0801849365
+  }, {
+    "name": "Shopping",
+    "score": 93.9285202026
+  }, {
+    "name": "Errands",
+    "score": 88.1132125854
+  }, {
+    "name": "Parks",
+    "score": 68.5301437378
+  }, {
+    "name": "Schools",
+    "score": 98.7442550659
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 62.6001472473
+  }, {
+    "name": "Walk",
+    "score": 84.0
+  }, {
+    "name": "Transit",
+    "score": 64.0
+  }, {
+    "name": "Bike",
+    "score": 57.0
+  }]
+}, {
+  "The Bush": [{
+    "name": "Dining & Drinking",
+    "score": 45.537727356
+  }, {
+    "name": "Groceries",
+    "score": 50.2391395569
+  }, {
+    "name": "Shopping",
+    "score": 67.0763168335
+  }, {
+    "name": "Errands",
+    "score": 66.622718811
+  }, {
+    "name": "Parks",
+    "score": 84.7159576416
+  }, {
+    "name": "Schools",
+    "score": 97.8474273682
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 4.22386598587
+  }, {
+    "name": "Walk",
+    "score": 55.0
+  }, {
+    "name": "Transit",
+    "score": 65.0
+  }, {
+    "name": "Bike",
+    "score": 68.0
+  }]
+}, {
+  "Rogers Park": [{
+    "name": "Dining & Drinking",
+    "score": 92.6360015869
+  }, {
+    "name": "Groceries",
+    "score": 99.0080566406
+  }, {
+    "name": "Shopping",
+    "score": 93.4608230591
+  }, {
+    "name": "Errands",
+    "score": 94.1441040039
+  }, {
+    "name": "Parks",
+    "score": 99.9742660522
+  }, {
+    "name": "Schools",
+    "score": 94.2852020264
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 96.8105163574
+  }, {
+    "name": "Walk",
+    "score": 94.0
+  }, {
+    "name": "Transit",
+    "score": 77.0
+  }, {
+    "name": "Bike",
+    "score": 91.0
+  }]
+}, {
+  "Clearing (E)": [{
+    "name": "Dining & Drinking",
+    "score": 81.3539581299
+  }, {
+    "name": "Groceries",
+    "score": 9.28786087036
+  }, {
+    "name": "Shopping",
+    "score": 66.3366317749
+  }, {
+    "name": "Errands",
+    "score": 76.7222671509
+  }, {
+    "name": "Parks",
+    "score": 74.9950942993
+  }, {
+    "name": "Schools",
+    "score": 71.9009552002
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 64.3874359131
+  }, {
+    "name": "Walk",
+    "score": 62.0
+  }, {
+    "name": "Transit",
+    "score": 62.0
+  }, {
+    "name": "Bike",
+    "score": 69.0
+  }]
+}, {
+  "South Loop": [{
+    "name": "Dining & Drinking",
+    "score": 96.8858795166
+  }, {
+    "name": "Groceries",
+    "score": 98.5588150024
+  }, {
+    "name": "Shopping",
+    "score": 98.1768112183
+  }, {
+    "name": "Errands",
+    "score": 99.0348358154
+  }, {
+    "name": "Parks",
+    "score": 100.0
+  }, {
+    "name": "Schools",
+    "score": 96.8874969482
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 99.6540374756
+  }, {
+    "name": "Walk",
+    "score": 96.0
+  }, {
+    "name": "Transit",
+    "score": 100.0
+  }, {
+    "name": "Bike",
+    "score": 93.0
+  }]
+}, {
+  "Pulaski Park": [{
+    "name": "Dining & Drinking",
+    "score": 86.8361740112
+  }, {
+    "name": "Groceries",
+    "score": 47.8750610352
+  }, {
+    "name": "Shopping",
+    "score": 92.8786468506
+  }, {
+    "name": "Errands",
+    "score": 92.9600219727
+  }, {
+    "name": "Parks",
+    "score": 99.7919845581
+  }, {
+    "name": "Schools",
+    "score": 100.0
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 97.4689331055
+  }, {
+    "name": "Walk",
+    "score": 83.0
+  }, {
+    "name": "Transit",
+    "score": 76.0
+  }, {
+    "name": "Bike",
+    "score": 93.0
+  }]
+}, {
+  "Kilbourn Park": [{
+    "name": "Dining & Drinking",
+    "score": 74.4823760986
+  }, {
+    "name": "Groceries",
+    "score": 76.3998336792
+  }, {
+    "name": "Shopping",
+    "score": 88.7629318237
+  }, {
+    "name": "Errands",
+    "score": 86.3184204102
+  }, {
+    "name": "Parks",
+    "score": 91.0757446289
+  }, {
+    "name": "Schools",
+    "score": 90.3831253052
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 83.5718460083
+  }, {
+    "name": "Walk",
+    "score": 82.0
+  }, {
+    "name": "Transit",
+    "score": 67.0
+  }, {
+    "name": "Bike",
+    "score": 70.0
+  }]
+}, {
+  "Gold Coast": [{
+    "name": "Dining & Drinking",
+    "score": 89.6459884644
+  }, {
+    "name": "Groceries",
+    "score": 97.542388916
+  }, {
+    "name": "Shopping",
+    "score": 87.1493759155
+  }, {
+    "name": "Errands",
+    "score": 95.4302520752
+  }, {
+    "name": "Parks",
+    "score": 99.1606369019
+  }, {
+    "name": "Schools",
+    "score": 85.5817718506
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 99.6540374756
+  }, {
+    "name": "Walk",
+    "score": 91.0
+  }, {
+    "name": "Transit",
+    "score": 85.0
+  }, {
+    "name": "Bike",
+    "score": 84.0
+  }]
+}, {
+  "Edgewater": [{
+    "name": "Dining & Drinking",
+    "score": 94.083366394
+  }, {
+    "name": "Groceries",
+    "score": 82.4866943359
+  }, {
+    "name": "Shopping",
+    "score": 96.8964080811
+  }, {
+    "name": "Errands",
+    "score": 97.4685134888
+  }, {
+    "name": "Parks",
+    "score": 98.9235839844
+  }, {
+    "name": "Schools",
+    "score": 94.6324615479
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 100.0
+  }, {
+    "name": "Walk",
+    "score": 92.0
+  }, {
+    "name": "Transit",
+    "score": 77.0
+  }, {
+    "name": "Bike",
+    "score": 86.0
+  }]
+}, {
+  "Lake View East": [{
+    "name": "Dining & Drinking",
+    "score": 99.3154525757
+  }, {
+    "name": "Groceries",
+    "score": 72.6493453979
+  }, {
+    "name": "Shopping",
+    "score": 99.8225860596
+  }, {
+    "name": "Errands",
+    "score": 99.4963760376
+  }, {
+    "name": "Parks",
+    "score": 99.3757171631
+  }, {
+    "name": "Schools",
+    "score": 94.8152999878
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 100.0
+  }, {
+    "name": "Walk",
+    "score": 93.0
+  }, {
+    "name": "Transit",
+    "score": 85.0
+  }, {
+    "name": "Bike",
+    "score": 89.0
+  }]
+}, {
+  "Jefferson Park": [{
+    "name": "Dining & Drinking",
+    "score": 82.6852416992
+  }, {
+    "name": "Groceries",
+    "score": 50.8519248962
+  }, {
+    "name": "Shopping",
+    "score": 87.937789917
+  }, {
+    "name": "Errands",
+    "score": 91.1169052124
+  }, {
+    "name": "Parks",
+    "score": 84.3134231567
+  }, {
+    "name": "Schools",
+    "score": 83.3378753662
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 92.2224349976
+  }, {
+    "name": "Walk",
+    "score": 80.0
+  }, {
+    "name": "Transit",
+    "score": 59.0
+  }, {
+    "name": "Bike",
+    "score": 77.0
+  }]
+}, {
+  "Marquette Park": [{
+    "name": "Dining & Drinking",
+    "score": 53.5483932495
+  }, {
+    "name": "Groceries",
+    "score": 71.350189209
+  }, {
+    "name": "Shopping",
+    "score": 63.1821060181
+  }, {
+    "name": "Errands",
+    "score": 65.4045410156
+  }, {
+    "name": "Parks",
+    "score": 99.2606277466
+  }, {
+    "name": "Schools",
+    "score": 60.5011405945
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 8.88584327698
+  }, {
+    "name": "Walk",
+    "score": 59.0
+  }, {
+    "name": "Transit",
+    "score": 54.0
+  }, {
+    "name": "Bike",
+    "score": 54.0
+  }]
+}, {
+  "Grand Crossing": [{
+    "name": "Dining & Drinking",
+    "score": 80.4507446289
+  }, {
+    "name": "Groceries",
+    "score": 92.1515045166
+  }, {
+    "name": "Shopping",
+    "score": 82.780921936
+  }, {
+    "name": "Errands",
+    "score": 48.2168045044
+  }, {
+    "name": "Parks",
+    "score": 81.5147857666
+  }, {
+    "name": "Schools",
+    "score": 96.6881103516
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 43.0820465088
+  }, {
+    "name": "Walk",
+    "score": 75.0
+  }, {
+    "name": "Transit",
+    "score": 72.0
+  }, {
+    "name": "Bike",
+    "score": 63.0
+  }]
+}, {
+  "Andersonville": [{
+    "name": "Dining & Drinking",
+    "score": 95.6609725952
+  }, {
+    "name": "Groceries",
+    "score": 97.993927002
+  }, {
+    "name": "Shopping",
+    "score": 99.0847549438
+  }, {
+    "name": "Errands",
+    "score": 98.1210479736
+  }, {
+    "name": "Parks",
+    "score": 99.8331451416
+  }, {
+    "name": "Schools",
+    "score": 100.0
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 100.0
+  }, {
+    "name": "Walk",
+    "score": 98.0
+  }, {
+    "name": "Transit",
+    "score": 70.0
+  }, {
+    "name": "Bike",
+    "score": 77.0
+  }]
+}, {
+  "Noble Square": [{
+    "name": "Dining & Drinking",
+    "score": 94.971244812
+  }, {
+    "name": "Groceries",
+    "score": 90.2201843262
+  }, {
+    "name": "Shopping",
+    "score": 97.3246917725
+  }, {
+    "name": "Errands",
+    "score": 96.1652832031
+  }, {
+    "name": "Parks",
+    "score": 98.3780975342
+  }, {
+    "name": "Schools",
+    "score": 99.7024230957
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 100.0
+  }, {
+    "name": "Walk",
+    "score": 95.0
+  }, {
+    "name": "Transit",
+    "score": 76.0
+  }, {
+    "name": "Bike",
+    "score": 96.0
+  }]
+}, {
+  "West Elsdon": [{
+    "name": "Dining & Drinking",
+    "score": 81.8977661133
+  }, {
+    "name": "Groceries",
+    "score": 98.6075592041
+  }, {
+    "name": "Shopping",
+    "score": 83.0530014038
+  }, {
+    "name": "Errands",
+    "score": 82.5096054077
+  }, {
+    "name": "Parks",
+    "score": 78.3579788208
+  }, {
+    "name": "Schools",
+    "score": 92.9577484131
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 29.3074913025
+  }, {
+    "name": "Walk",
+    "score": 81.0
+  }, {
+    "name": "Transit",
+    "score": 58.0
+  }, {
+    "name": "Bike",
+    "score": 70.0
+  }]
+}, {
+  "Marynook": [{
+    "name": "Dining & Drinking",
+    "score": 74.787109375
+  }, {
+    "name": "Groceries",
+    "score": 60.5208282471
+  }, {
+    "name": "Shopping",
+    "score": 71.6220550537
+  }, {
+    "name": "Errands",
+    "score": 80.2489547729
+  }, {
+    "name": "Parks",
+    "score": 94.528678894
+  }, {
+    "name": "Schools",
+    "score": 77.6815567017
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 60.5438995361
+  }, {
+    "name": "Walk",
+    "score": 72.0
+  }, {
+    "name": "Transit",
+    "score": 57.0
+  }, {
+    "name": "Bike",
+    "score": 52.0
+  }]
+}, {
+  "Pilsen": [{
+    "name": "Dining & Drinking",
+    "score": 82.2644271851
+  }, {
+    "name": "Groceries",
+    "score": 94.3247756958
+  }, {
+    "name": "Shopping",
+    "score": 93.7126693726
+  }, {
+    "name": "Errands",
+    "score": 80.6370697021
+  }, {
+    "name": "Parks",
+    "score": 95.290435791
+  }, {
+    "name": "Schools",
+    "score": 88.0150375366
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 97.4317321777
+  }, {
+    "name": "Walk",
+    "score": 87.0
+  }, {
+    "name": "Transit",
+    "score": 65.0
+  }, {
+    "name": "Bike",
+    "score": 94.0
+  }]
+}, {
+  "Oriole Park": [{
+    "name": "Dining & Drinking",
+    "score": 55.9989776611
+  }, {
+    "name": "Groceries",
+    "score": 62.4809303284
+  }, {
+    "name": "Shopping",
+    "score": 65.1104049683
+  }, {
+    "name": "Errands",
+    "score": 68.1869735718
+  }, {
+    "name": "Parks",
+    "score": 84.3203277588
+  }, {
+    "name": "Schools",
+    "score": 73.6278762817
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 69.8722381592
+  }, {
+    "name": "Walk",
+    "score": 65.0
+  }, {
+    "name": "Transit",
+    "score": 53.0
+  }, {
+    "name": "Bike",
+    "score": 55.0
+  }]
+}, {
+  "Beverly Woods": [{
+    "name": "Dining & Drinking",
+    "score": 72.2782440186
+  }, {
+    "name": "Groceries",
+    "score": 33.8603096008
+  }, {
+    "name": "Shopping",
+    "score": 68.119392395
+  }, {
+    "name": "Errands",
+    "score": 84.5135040283
+  }, {
+    "name": "Parks",
+    "score": 91.6900558472
+  }, {
+    "name": "Schools",
+    "score": 79.3200454712
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 85.5488967896
+  }, {
+    "name": "Walk",
+    "score": 68.0
+  }, {
+    "name": "Transit",
+    "score": 45.0
+  }, {
+    "name": "Bike",
+    "score": 56.0
+  }]
+}, {
+  "Park West": [{
+    "name": "Dining & Drinking",
+    "score": 95.2961502075
+  }, {
+    "name": "Groceries",
+    "score": 91.3724212646
+  }, {
+    "name": "Shopping",
+    "score": 91.0244979858
+  }, {
+    "name": "Errands",
+    "score": 97.2241744995
+  }, {
+    "name": "Parks",
+    "score": 100.0
+  }, {
+    "name": "Schools",
+    "score": 86.5810317993
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 99.3665924072
+  }, {
+    "name": "Walk",
+    "score": 93.0
+  }, {
+    "name": "Transit",
+    "score": 68.0
+  }, {
+    "name": "Bike",
+    "score": 94.0
+  }]
+}, {
+  "Belmont Gardens": [{
+    "name": "Dining & Drinking",
+    "score": 65.9981536865
+  }, {
+    "name": "Groceries",
+    "score": 77.1098251343
+  }, {
+    "name": "Shopping",
+    "score": 86.2730789185
+  }, {
+    "name": "Errands",
+    "score": 82.2098693848
+  }, {
+    "name": "Parks",
+    "score": 97.6969528198
+  }, {
+    "name": "Schools",
+    "score": 96.5971984863
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 82.392906189
+  }, {
+    "name": "Walk",
+    "score": 78.0
+  }, {
+    "name": "Transit",
+    "score": 61.0
+  }, {
+    "name": "Bike",
+    "score": 71.0
+  }]
+}, {
+  "Brighton Park": [{
+    "name": "Dining & Drinking",
+    "score": 83.6108016968
+  }, {
+    "name": "Groceries",
+    "score": 99.8266143799
+  }, {
+    "name": "Shopping",
+    "score": 71.3190078735
+  }, {
+    "name": "Errands",
+    "score": 69.4562530518
+  }, {
+    "name": "Parks",
+    "score": 88.7938308716
+  }, {
+    "name": "Schools",
+    "score": 96.2111968994
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 61.7925109863
+  }, {
+    "name": "Walk",
+    "score": 81.0
+  }, {
+    "name": "Transit",
+    "score": 57.0
+  }, {
+    "name": "Bike",
+    "score": 68.0
+  }]
+}, {
+  "Stateway Gardens": [{
+    "name": "Dining & Drinking",
+    "score": 70.542678833
+  }, {
+    "name": "Groceries",
+    "score": 23.8664608002
+  }, {
+    "name": "Shopping",
+    "score": 67.2192840576
+  }, {
+    "name": "Errands",
+    "score": 69.5988464355
+  }, {
+    "name": "Parks",
+    "score": 89.3076324463
+  }, {
+    "name": "Schools",
+    "score": 94.2692337036
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 94.3717651367
+  }, {
+    "name": "Walk",
+    "score": 62.0
+  }, {
+    "name": "Transit",
+    "score": 78.0
+  }, {
+    "name": "Bike",
+    "score": 50.0
+  }]
+}, {
+  "Ravenswood": [{
+    "name": "Dining & Drinking",
+    "score": 93.6068878174
+  }, {
+    "name": "Groceries",
+    "score": 93.5628585815
+  }, {
+    "name": "Shopping",
+    "score": 97.3927612305
+  }, {
+    "name": "Errands",
+    "score": 97.5889282227
+  }, {
+    "name": "Parks",
+    "score": 99.0783233643
+  }, {
+    "name": "Schools",
+    "score": 97.1120147705
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 90.9272384644
+  }, {
+    "name": "Walk",
+    "score": 94.0
+  }, {
+    "name": "Transit",
+    "score": 70.0
+  }, {
+    "name": "Bike",
+    "score": 91.0
+  }]
+}, {
+  "Parkway Gardens": [{
+    "name": "Dining & Drinking",
+    "score": 45.8711776733
+  }, {
+    "name": "Groceries",
+    "score": 86.4831619263
+  }, {
+    "name": "Shopping",
+    "score": 49.3445739746
+  }, {
+    "name": "Errands",
+    "score": 51.8665275574
+  }, {
+    "name": "Parks",
+    "score": 3.65100574493
+  }, {
+    "name": "Schools",
+    "score": 76.6680984497
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 8.00354194641
+  }, {
+    "name": "Walk",
+    "score": 51.0
+  }, {
+    "name": "Transit",
+    "score": 76.0
+  }, {
+    "name": "Bike",
+    "score": 65.0
+  }]
+}, {
+  "South Shore": [{
+    "name": "Dining & Drinking",
+    "score": 65.5733108521
+  }, {
+    "name": "Groceries",
+    "score": 3.91194558144
+  }, {
+    "name": "Shopping",
+    "score": 64.5878295898
+  }, {
+    "name": "Errands",
+    "score": 84.848197937
+  }, {
+    "name": "Parks",
+    "score": 99.2474441528
+  }, {
+    "name": "Schools",
+    "score": 100.0
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 49.1127700806
+  }, {
+    "name": "Walk",
+    "score": 60.0
+  }, {
+    "name": "Transit",
+    "score": 70.0
+  }, {
+    "name": "Bike",
+    "score": 59.0
+  }]
+}, {
+  "Washington Park": [{
+    "name": "Dining & Drinking",
+    "score": 62.2034873962
+  }, {
+    "name": "Groceries",
+    "score": 75.7681274414
+  }, {
+    "name": "Shopping",
+    "score": 72.7638397217
+  }, {
+    "name": "Errands",
+    "score": 80.885635376
+  }, {
+    "name": "Parks",
+    "score": 96.072517395
+  }, {
+    "name": "Schools",
+    "score": 78.7616500854
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 96.8255004883
+  }, {
+    "name": "Walk",
+    "score": 73.0
+  }, {
+    "name": "Transit",
+    "score": 72.0
+  }, {
+    "name": "Bike",
+    "score": 79.0
+  }]
+}, {
+  "Hanson Park": [{
+    "name": "Dining & Drinking",
+    "score": 79.9227905273
+  }, {
+    "name": "Groceries",
+    "score": 83.419593811
+  }, {
+    "name": "Shopping",
+    "score": 84.0314941406
+  }, {
+    "name": "Errands",
+    "score": 86.424446106
+  }, {
+    "name": "Parks",
+    "score": 98.6766052246
+  }, {
+    "name": "Schools",
+    "score": 99.6032180786
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 36.065864563
+  }, {
+    "name": "Walk",
+    "score": 81.0
+  }, {
+    "name": "Transit",
+    "score": 62.0
+  }, {
+    "name": "Bike",
+    "score": 77.0
+  }]
+}, {
+  "Belmont Terrace": [{
+    "name": "Dining & Drinking",
+    "score": 59.9540710449
+  }, {
+    "name": "Groceries",
+    "score": 69.6268997192
+  }, {
+    "name": "Shopping",
+    "score": 61.5755767822
+  }, {
+    "name": "Errands",
+    "score": 78.8785324097
+  }, {
+    "name": "Parks",
+    "score": 75.2283630371
+  }, {
+    "name": "Schools",
+    "score": 83.3262176514
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 34.404460907
+  }, {
+    "name": "Walk",
+    "score": 65.0
+  }, {
+    "name": "Transit",
+    "score": 52.0
+  }, {
+    "name": "Bike",
+    "score": 59.0
+  }]
+}, {
+  "Magnolia Glen": [{
+    "name": "Dining & Drinking",
+    "score": 92.2734222412
+  }, {
+    "name": "Groceries",
+    "score": 93.181388855
+  }, {
+    "name": "Shopping",
+    "score": 93.7554779053
+  }, {
+    "name": "Errands",
+    "score": 90.0432357788
+  }, {
+    "name": "Parks",
+    "score": 97.5974578857
+  }, {
+    "name": "Schools",
+    "score": 96.2843170166
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 99.1796646118
+  }, {
+    "name": "Walk",
+    "score": 93.0
+  }, {
+    "name": "Transit",
+    "score": 72.0
+  }, {
+    "name": "Bike",
+    "score": 81.0
+  }]
+}, {
+  "Schorsch Village": [{
+    "name": "Dining & Drinking",
+    "score": 64.6037521362
+  }, {
+    "name": "Groceries",
+    "score": 72.8081741333
+  }, {
+    "name": "Shopping",
+    "score": 83.0006637573
+  }, {
+    "name": "Errands",
+    "score": 72.1503601074
+  }, {
+    "name": "Parks",
+    "score": 90.4370651245
+  }, {
+    "name": "Schools",
+    "score": 77.2481002808
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 85.6740722656
+  }, {
+    "name": "Walk",
+    "score": 73.0
+  }, {
+    "name": "Transit",
+    "score": 54.0
+  }, {
+    "name": "Bike",
+    "score": 68.0
+  }]
+}, {
+  "Roscoe Village": [{
+    "name": "Dining & Drinking",
+    "score": 93.8217926025
+  }, {
+    "name": "Groceries",
+    "score": 91.9562454224
+  }, {
+    "name": "Shopping",
+    "score": 98.8273849487
+  }, {
+    "name": "Errands",
+    "score": 96.9260177612
+  }, {
+    "name": "Parks",
+    "score": 97.1938247681
+  }, {
+    "name": "Schools",
+    "score": 84.3451843262
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 97.380279541
+  }, {
+    "name": "Walk",
+    "score": 95.0
+  }, {
+    "name": "Transit",
+    "score": 69.0
+  }, {
+    "name": "Bike",
+    "score": 86.0
+  }]
+}, {
+  "Hermosa": [{
+    "name": "Dining & Drinking",
+    "score": 78.9006500244
+  }, {
+    "name": "Groceries",
+    "score": 95.8997573853
+  }, {
+    "name": "Shopping",
+    "score": 83.3672027588
+  }, {
+    "name": "Errands",
+    "score": 74.1937637329
+  }, {
+    "name": "Parks",
+    "score": 95.9134216309
+  }, {
+    "name": "Schools",
+    "score": 86.6627578735
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 33.0995979309
+  }, {
+    "name": "Walk",
+    "score": 80.0
+  }, {
+    "name": "Transit",
+    "score": 60.0
+  }, {
+    "name": "Bike",
+    "score": 79.0
+  }]
+}, {
+  "Near North": [{
+    "name": "Dining & Drinking",
+    "score": 98.5982131958
+  }, {
+    "name": "Groceries",
+    "score": 98.4140548706
+  }, {
+    "name": "Shopping",
+    "score": 99.2326126099
+  }, {
+    "name": "Errands",
+    "score": 99.7897338867
+  }, {
+    "name": "Parks",
+    "score": 100.0
+  }, {
+    "name": "Schools",
+    "score": 95.2849960327
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 100.0
+  }, {
+    "name": "Walk",
+    "score": 99.0
+  }, {
+    "name": "Transit",
+    "score": 90.0
+  }, {
+    "name": "Bike",
+    "score": 87.0
+  }]
+}, {
+  "Dearborn Park": [{
+    "name": "Dining & Drinking",
+    "score": 80.467880249
+  }, {
+    "name": "Groceries",
+    "score": 66.8754882812
+  }, {
+    "name": "Shopping",
+    "score": 90.2232208252
+  }, {
+    "name": "Errands",
+    "score": 92.5071868896
+  }, {
+    "name": "Parks",
+    "score": 100.0
+  }, {
+    "name": "Schools",
+    "score": 89.6722640991
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 61.682800293
+  }, {
+    "name": "Walk",
+    "score": 80.0
+  }, {
+    "name": "Transit",
+    "score": 100.0
+  }, {
+    "name": "Bike",
+    "score": 92.0
+  }]
+}, {
+  "Rosemoor": [{
+    "name": "Dining & Drinking",
+    "score": 68.3324508667
+  }, {
+    "name": "Groceries",
+    "score": 82.0562973022
+  }, {
+    "name": "Shopping",
+    "score": 73.2028274536
+  }, {
+    "name": "Errands",
+    "score": 72.4541320801
+  }, {
+    "name": "Parks",
+    "score": 61.1306915283
+  }, {
+    "name": "Schools",
+    "score": 94.5543746948
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 29.0689678192
+  }, {
+    "name": "Walk",
+    "score": 70.0
+  }, {
+    "name": "Transit",
+    "score": 68.0
+  }, {
+    "name": "Bike",
+    "score": 65.0
+  }]
+}, {
+  "Fulton River District": [{
+    "name": "Dining & Drinking",
+    "score": 96.5151138306
+  }, {
+    "name": "Groceries",
+    "score": 94.2420730591
+  }, {
+    "name": "Shopping",
+    "score": 97.6678314209
+  }, {
+    "name": "Errands",
+    "score": 95.5502700806
+  }, {
+    "name": "Parks",
+    "score": 99.2474441528
+  }, {
+    "name": "Schools",
+    "score": 57.6263389587
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 99.4942932129
+  }, {
+    "name": "Walk",
+    "score": 94.0
+  }, {
+    "name": "Transit",
+    "score": 97.0
+  }, {
+    "name": "Bike",
+    "score": 88.0
+  }]
+}, {
+  "Goose Island": [{
+    "name": "Dining & Drinking",
+    "score": 78.1749572754
+  }, {
+    "name": "Groceries",
+    "score": 86.9825820923
+  }, {
+    "name": "Shopping",
+    "score": 89.2154159546
+  }, {
+    "name": "Errands",
+    "score": 81.5766220093
+  }, {
+    "name": "Parks",
+    "score": 90.6229629517
+  }, {
+    "name": "Schools",
+    "score": 70.9154205322
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 92.5215835571
+  }, {
+    "name": "Walk",
+    "score": 70.0
+  }, {
+    "name": "Transit",
+    "score": 79.0
+  }, {
+    "name": "Bike",
+    "score": 91.0
+  }]
+}, {
+  "Ukrainian Village": [{
+    "name": "Dining & Drinking",
+    "score": 94.4031600952
+  }, {
+    "name": "Groceries",
+    "score": 93.713180542
+  }, {
+    "name": "Shopping",
+    "score": 95.939956665
+  }, {
+    "name": "Errands",
+    "score": 94.7662963867
+  }, {
+    "name": "Parks",
+    "score": 99.4943466187
+  }, {
+    "name": "Schools",
+    "score": 99.5499725342
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 99.6540374756
+  }, {
+    "name": "Walk",
+    "score": 95.0
+  }, {
+    "name": "Transit",
+    "score": 70.0
+  }, {
+    "name": "Bike",
+    "score": 95.0
+  }]
+}, {
+  "Ashburn": [{
+    "name": "Dining & Drinking",
+    "score": 56.3945236206
+  }, {
+    "name": "Groceries",
+    "score": 9.68961524963
+  }, {
+    "name": "Shopping",
+    "score": 75.9664306641
+  }, {
+    "name": "Errands",
+    "score": 59.5976257324
+  }, {
+    "name": "Parks",
+    "score": 71.465461731
+  }, {
+    "name": "Schools",
+    "score": 55.1016235352
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 6.36594247818
+  }, {
+    "name": "Walk",
+    "score": 49.0
+  }, {
+    "name": "Transit",
+    "score": 54.0
+  }, {
+    "name": "Bike",
+    "score": 47.0
+  }]
+}, {
+  "Cottage Grove Heights": [{
+    "name": "Dining & Drinking",
+    "score": 31.0329036713
+  }, {
+    "name": "Groceries",
+    "score": 0
+  }, {
+    "name": "Shopping",
+    "score": 41.5689315796
+  }, {
+    "name": "Errands",
+    "score": 52.3786506653
+  }, {
+    "name": "Parks",
+    "score": 5.4145116806
+  }, {
+    "name": "Schools",
+    "score": 73.4692153931
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 6.51431274414
+  }, {
+    "name": "Walk",
+    "score": 29.0
+  }, {
+    "name": "Transit",
+    "score": 62.0
+  }, {
+    "name": "Bike",
+    "score": 37.0
+  }]
+}, {
+  "Chicago Midway Airport": [{
+    "name": "Dining & Drinking",
+    "score": 53.1475257874
+  }, {
+    "name": "Groceries",
+    "score": 0
+  }, {
+    "name": "Shopping",
+    "score": 65.3829956055
+  }, {
+    "name": "Errands",
+    "score": 5.95888900757
+  }, {
+    "name": "Parks",
+    "score": 0
+  }, {
+    "name": "Schools",
+    "score": 0
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 70.0
+  }, {
+    "name": "Walk",
+    "score": 23.0
+  }, {
+    "name": "Transit",
+    "score": 61.0
+  }, {
+    "name": "Bike",
+    "score": 30.0
+  }]
+}, {
+  "Altgeld Gardens": [{
+    "name": "Dining & Drinking",
+    "score": 29.6130332947
+  }, {
+    "name": "Groceries",
+    "score": 28.5854682922
+  }, {
+    "name": "Shopping",
+    "score": 0
+  }, {
+    "name": "Errands",
+    "score": 0
+  }, {
+    "name": "Parks",
+    "score": 86.0002746582
+  }, {
+    "name": "Schools",
+    "score": 91.3900604248
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 0
+  }, {
+    "name": "Walk",
+    "score": 24.0
+  }, {
+    "name": "Transit",
+    "score": 39.0
+  }, {
+    "name": "Bike",
+    "score": 34.0
+  }]
+}, {
+  "Lincoln Square": [{
+    "name": "Dining & Drinking",
+    "score": 98.7078781128
+  }, {
+    "name": "Groceries",
+    "score": 98.3015670776
+  }, {
+    "name": "Shopping",
+    "score": 99.9198913574
+  }, {
+    "name": "Errands",
+    "score": 98.9917297363
+  }, {
+    "name": "Parks",
+    "score": 100.0
+  }, {
+    "name": "Schools",
+    "score": 96.5668869019
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 100.0
+  }, {
+    "name": "Walk",
+    "score": 99.0
+  }, {
+    "name": "Transit",
+    "score": 70.0
+  }, {
+    "name": "Bike",
+    "score": 85.0
+  }]
+}, {
+  "Scottsdale": [{
+    "name": "Dining & Drinking",
+    "score": 56.152973175
+  }, {
+    "name": "Groceries",
+    "score": 65.4756317139
+  }, {
+    "name": "Shopping",
+    "score": 55.3907966614
+  }, {
+    "name": "Errands",
+    "score": 59.7446594238
+  }, {
+    "name": "Parks",
+    "score": 96.5962677002
+  }, {
+    "name": "Schools",
+    "score": 96.16822052
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 23.010137558
+  }, {
+    "name": "Walk",
+    "score": 61.0
+  }, {
+    "name": "Transit",
+    "score": 53.0
+  }, {
+    "name": "Bike",
+    "score": 61.0
+  }]
+}, {
+  "Trumbull Park": [{
+    "name": "Dining & Drinking",
+    "score": 61.8552436829
+  }, {
+    "name": "Groceries",
+    "score": 0
+  }, {
+    "name": "Shopping",
+    "score": 2.27107071877
+  }, {
+    "name": "Errands",
+    "score": 2.93832421303
+  }, {
+    "name": "Parks",
+    "score": 74.4218444824
+  }, {
+    "name": "Schools",
+    "score": 76.2372741699
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 5.66951322556
+  }, {
+    "name": "Walk",
+    "score": 27.0
+  }, {
+    "name": "Transit",
+    "score": 50.0
+  }, {
+    "name": "Bike",
+    "score": 36.0
+  }]
+}, {
+  "Heart of Chicago": [{
+    "name": "Dining & Drinking",
+    "score": 85.3497238159
+  }, {
+    "name": "Groceries",
+    "score": 97.6335525513
+  }, {
+    "name": "Shopping",
+    "score": 93.3115158081
+  }, {
+    "name": "Errands",
+    "score": 81.0416259766
+  }, {
+    "name": "Parks",
+    "score": 60.2022018433
+  }, {
+    "name": "Schools",
+    "score": 95.0966567993
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 86.6305007935
+  }, {
+    "name": "Walk",
+    "score": 85.0
+  }, {
+    "name": "Transit",
+    "score": 67.0
+  }, {
+    "name": "Bike",
+    "score": 74.0
+  }]
+}, {
+  "West Rogers Park": [{
+    "name": "Dining & Drinking",
+    "score": 94.9411621094
+  }, {
+    "name": "Groceries",
+    "score": 99.135093689
+  }, {
+    "name": "Shopping",
+    "score": 99.2637176514
+  }, {
+    "name": "Errands",
+    "score": 94.3111114502
+  }, {
+    "name": "Parks",
+    "score": 87.8601226807
+  }, {
+    "name": "Schools",
+    "score": 97.4042892456
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 91.5762557983
+  }, {
+    "name": "Walk",
+    "score": 95.0
+  }, {
+    "name": "Transit",
+    "score": 53.0
+  }, {
+    "name": "Bike",
+    "score": 74.0
+  }]
+}, {
+  "Mount Greenwood Heights": [{
+    "name": "Dining & Drinking",
+    "score": 74.9768981934
+  }, {
+    "name": "Groceries",
+    "score": 42.6543769836
+  }, {
+    "name": "Shopping",
+    "score": 92.2085418701
+  }, {
+    "name": "Errands",
+    "score": 90.8441467285
+  }, {
+    "name": "Parks",
+    "score": 79.9593200684
+  }, {
+    "name": "Schools",
+    "score": 87.6255722046
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 98.8063049316
+  }, {
+    "name": "Walk",
+    "score": 75.0
+  }, {
+    "name": "Transit",
+    "score": 40.0
+  }, {
+    "name": "Bike",
+    "score": 66.0
+  }]
+}, {
+  "North Kenwood": [{
+    "name": "Dining & Drinking",
+    "score": 64.450630188
+  }, {
+    "name": "Groceries",
+    "score": 72.7585601807
+  }, {
+    "name": "Shopping",
+    "score": 70.4489517212
+  }, {
+    "name": "Errands",
+    "score": 80.0750045776
+  }, {
+    "name": "Parks",
+    "score": 85.7516555786
+  }, {
+    "name": "Schools",
+    "score": 94.4420089722
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 48.6848144531
+  }, {
+    "name": "Walk",
+    "score": 69.0
+  }, {
+    "name": "Transit",
+    "score": 61.0
+  }, {
+    "name": "Bike",
+    "score": 84.0
+  }]
+}, {
+  "Arcadia Terrace": [{
+    "name": "Dining & Drinking",
+    "score": 87.5527191162
+  }, {
+    "name": "Groceries",
+    "score": 93.7942810059
+  }, {
+    "name": "Shopping",
+    "score": 79.6731109619
+  }, {
+    "name": "Errands",
+    "score": 79.1331939697
+  }, {
+    "name": "Parks",
+    "score": 95.4359970093
+  }, {
+    "name": "Schools",
+    "score": 88.8552322388
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 75.9720306396
+  }, {
+    "name": "Walk",
+    "score": 85.0
+  }, {
+    "name": "Transit",
+    "score": 53.0
+  }, {
+    "name": "Bike",
+    "score": 73.0
+  }]
+}, {
+  "West Pullman": [{
+    "name": "Dining & Drinking",
+    "score": 36.2106704712
+  }, {
+    "name": "Groceries",
+    "score": 66.0965805054
+  }, {
+    "name": "Shopping",
+    "score": 43.3051147461
+  }, {
+    "name": "Errands",
+    "score": 56.7523841858
+  }, {
+    "name": "Parks",
+    "score": 86.2385101318
+  }, {
+    "name": "Schools",
+    "score": 89.0877609253
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 13.7799940109
+  }, {
+    "name": "Walk",
+    "score": 51.0
+  }, {
+    "name": "Transit",
+    "score": 57.0
+  }, {
+    "name": "Bike",
+    "score": 65.0
+  }]
+}, {
+  "Wicker Park": [{
+    "name": "Dining & Drinking",
+    "score": 99.0331726074
+  }, {
+    "name": "Groceries",
+    "score": 97.997718811
+  }, {
+    "name": "Shopping",
+    "score": 99.9120254517
+  }, {
+    "name": "Errands",
+    "score": 98.7379302979
+  }, {
+    "name": "Parks",
+    "score": 100.0
+  }, {
+    "name": "Schools",
+    "score": 92.356552124
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 100.0
+  }, {
+    "name": "Walk",
+    "score": 99.0
+  }, {
+    "name": "Transit",
+    "score": 77.0
+  }, {
+    "name": "Bike",
+    "score": 95.0
+  }]
+}, {
+  "Tri-Taylor": [{
+    "name": "Dining & Drinking",
+    "score": 89.6090774536
+  }, {
+    "name": "Groceries",
+    "score": 91.2133026123
+  }, {
+    "name": "Shopping",
+    "score": 86.6024856567
+  }, {
+    "name": "Errands",
+    "score": 95.7086105347
+  }, {
+    "name": "Parks",
+    "score": 99.9083480835
+  }, {
+    "name": "Schools",
+    "score": 99.7024230957
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 94.7744674683
+  }, {
+    "name": "Walk",
+    "score": 91.0
+  }, {
+    "name": "Transit",
+    "score": 71.0
+  }, {
+    "name": "Bike",
+    "score": 93.0
+  }]
+}, {
+  "Sheffield Neighbors": [{
+    "name": "Dining & Drinking",
+    "score": 92.6794281006
+  }, {
+    "name": "Groceries",
+    "score": 57.3992652893
+  }, {
+    "name": "Shopping",
+    "score": 97.7877883911
+  }, {
+    "name": "Errands",
+    "score": 98.0357971191
+  }, {
+    "name": "Parks",
+    "score": 100.0
+  }, {
+    "name": "Schools",
+    "score": 95.4544372559
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 99.8718795776
+  }, {
+    "name": "Walk",
+    "score": 88.0
+  }, {
+    "name": "Transit",
+    "score": 77.0
+  }, {
+    "name": "Bike",
+    "score": 84.0
+  }]
+}, {
+  "Norwood Park East": [{
+    "name": "Dining & Drinking",
+    "score": 79.4622116089
+  }, {
+    "name": "Groceries",
+    "score": 82.0874938965
+  }, {
+    "name": "Shopping",
+    "score": 84.7428817749
+  }, {
+    "name": "Errands",
+    "score": 88.7977294922
+  }, {
+    "name": "Parks",
+    "score": 91.7808074951
+  }, {
+    "name": "Schools",
+    "score": 77.5435562134
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 58.5398635864
+  }, {
+    "name": "Walk",
+    "score": 81.0
+  }, {
+    "name": "Transit",
+    "score": 49.0
+  }, {
+    "name": "Bike",
+    "score": 75.0
+  }]
+}, {
+  "Eden Green": [{
+    "name": "Dining & Drinking",
+    "score": 3.7505428791
+  }, {
+    "name": "Groceries",
+    "score": 79.3323898315
+  }, {
+    "name": "Shopping",
+    "score": 2.84129405022
+  }, {
+    "name": "Errands",
+    "score": 3.67702484131
+  }, {
+    "name": "Parks",
+    "score": 56.3012657166
+  }, {
+    "name": "Schools",
+    "score": 83.2880096436
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 3.06570386887
+  }, {
+    "name": "Walk",
+    "score": 24.0
+  }, {
+    "name": "Transit",
+    "score": 47.0
+  }, {
+    "name": "Bike",
+    "score": 35.0
+  }]
+}, {
+  "Park Manor": [{
+    "name": "Dining & Drinking",
+    "score": 80.4507446289
+  }, {
+    "name": "Groceries",
+    "score": 92.1515045166
+  }, {
+    "name": "Shopping",
+    "score": 82.780921936
+  }, {
+    "name": "Errands",
+    "score": 48.2168045044
+  }, {
+    "name": "Parks",
+    "score": 81.5147857666
+  }, {
+    "name": "Schools",
+    "score": 96.6881103516
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 43.0820465088
+  }, {
+    "name": "Walk",
+    "score": 75.0
+  }, {
+    "name": "Transit",
+    "score": 72.0
+  }, {
+    "name": "Bike",
+    "score": 63.0
+  }]
+}, {
+  "Belmont Heights": [{
+    "name": "Dining & Drinking",
+    "score": 77.6806030273
+  }, {
+    "name": "Groceries",
+    "score": 39.2392997742
+  }, {
+    "name": "Shopping",
+    "score": 86.0252838135
+  }, {
+    "name": "Errands",
+    "score": 84.0465698242
+  }, {
+    "name": "Parks",
+    "score": 57.9646339417
+  }, {
+    "name": "Schools",
+    "score": 79.551322937
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 73.4862365723
+  }, {
+    "name": "Walk",
+    "score": 71.0
+  }, {
+    "name": "Transit",
+    "score": 55.0
+  }, {
+    "name": "Bike",
+    "score": 65.0
+  }]
+}, {
+  "South Deering": [{
+    "name": "Dining & Drinking",
+    "score": 0.766754448414
+  }, {
+    "name": "Groceries",
+    "score": 0
+  }, {
+    "name": "Shopping",
+    "score": 0
+  }, {
+    "name": "Errands",
+    "score": 0
+  }, {
+    "name": "Parks",
+    "score": 0
+  }, {
+    "name": "Schools",
+    "score": 0
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 0
+  }, {
+    "name": "Walk",
+    "score": 0
+  }, {
+    "name": "Transit",
+    "score": 0
+  }, {
+    "name": "Bike",
+    "score": 29.0
+  }]
+}, {
+  "Stony Island Park": [{
+    "name": "Dining & Drinking",
+    "score": 69.6552505493
+  }, {
+    "name": "Groceries",
+    "score": 62.5235977173
+  }, {
+    "name": "Shopping",
+    "score": 80.9687957764
+  }, {
+    "name": "Errands",
+    "score": 84.2250823975
+  }, {
+    "name": "Parks",
+    "score": 63.957862854
+  }, {
+    "name": "Schools",
+    "score": 94.2498931885
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 51.939743042
+  }, {
+    "name": "Walk",
+    "score": 73.0
+  }, {
+    "name": "Transit",
+    "score": 57.0
+  }, {
+    "name": "Bike",
+    "score": 75.0
+  }]
+}, {
+  "Canaryville": [{
+    "name": "Dining & Drinking",
+    "score": 68.3108596802
+  }, {
+    "name": "Groceries",
+    "score": 60.8192710876
+  }, {
+    "name": "Shopping",
+    "score": 76.162902832
+  }, {
+    "name": "Errands",
+    "score": 56.2361679077
+  }, {
+    "name": "Parks",
+    "score": 100.0
+  }, {
+    "name": "Schools",
+    "score": 96.6764373779
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 70.0590133667
+  }, {
+    "name": "Walk",
+    "score": 70.0
+  }, {
+    "name": "Transit",
+    "score": 67.0
+  }, {
+    "name": "Bike",
+    "score": 64.0
+  }]
+}, {
+  "Burnside": [{
+    "name": "Dining & Drinking",
+    "score": 46.3588104248
+  }, {
+    "name": "Groceries",
+    "score": 68.784942627
+  }, {
+    "name": "Shopping",
+    "score": 37.8421478271
+  }, {
+    "name": "Errands",
+    "score": 13.5358963013
+  }, {
+    "name": "Parks",
+    "score": 58.766254425
+  }, {
+    "name": "Schools",
+    "score": 82.3953857422
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 7.49719524384
+  }, {
+    "name": "Walk",
+    "score": 43.0
+  }, {
+    "name": "Transit",
+    "score": 63.0
+  }, {
+    "name": "Bike",
+    "score": 36.0
+  }]
+}, {
+  "Edison Park": [{
+    "name": "Dining & Drinking",
+    "score": 83.46875
+  }, {
+    "name": "Groceries",
+    "score": 80.9955673218
+  }, {
+    "name": "Shopping",
+    "score": 86.3004989624
+  }, {
+    "name": "Errands",
+    "score": 88.0547332764
+  }, {
+    "name": "Parks",
+    "score": 99.9424514771
+  }, {
+    "name": "Schools",
+    "score": 92.5427780151
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 92.409362793
+  }, {
+    "name": "Walk",
+    "score": 86.0
+  }, {
+    "name": "Transit",
+    "score": 47.0
+  }, {
+    "name": "Bike",
+    "score": 72.0
+  }]
+}, {
+  "London Towne": [{
+    "name": "Dining & Drinking",
+    "score": 31.3338565826
+  }, {
+    "name": "Groceries",
+    "score": 22.6591281891
+  }, {
+    "name": "Shopping",
+    "score": 56.6654663086
+  }, {
+    "name": "Errands",
+    "score": 41.3324775696
+  }, {
+    "name": "Parks",
+    "score": 59.275390625
+  }, {
+    "name": "Schools",
+    "score": 62.0980758667
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 44.1670532227
+  }, {
+    "name": "Walk",
+    "score": 39.0
+  }, {
+    "name": "Transit",
+    "score": 66.0
+  }, {
+    "name": "Bike",
+    "score": 52.0
+  }]
+}, {
+  "Douglas Park": [{
+    "name": "Dining & Drinking",
+    "score": 56.3303756714
+  }, {
+    "name": "Groceries",
+    "score": 36.9526901245
+  }, {
+    "name": "Shopping",
+    "score": 51.7127037048
+  }, {
+    "name": "Errands",
+    "score": 56.2694816589
+  }, {
+    "name": "Parks",
+    "score": 77.6095657349
+  }, {
+    "name": "Schools",
+    "score": 91.8432540894
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 49.0081672668
+  }, {
+    "name": "Walk",
+    "score": 55.0
+  }, {
+    "name": "Transit",
+    "score": 65.0
+  }, {
+    "name": "Bike",
+    "score": 80.0
+  }]
+}, {
+  "Kenwood": [{
+    "name": "Dining & Drinking",
+    "score": 78.2752609253
+  }, {
+    "name": "Groceries",
+    "score": 63.0215644836
+  }, {
+    "name": "Shopping",
+    "score": 77.4009170532
+  }, {
+    "name": "Errands",
+    "score": 84.7365112305
+  }, {
+    "name": "Parks",
+    "score": 96.8890762329
+  }, {
+    "name": "Schools",
+    "score": 96.8105163574
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 68.5343551636
+  }, {
+    "name": "Walk",
+    "score": 73.0
+  }, {
+    "name": "Transit",
+    "score": 62.0
+  }, {
+    "name": "Bike",
+    "score": 86.0
+  }]
+}, {
+  "Ida B. Wells - Darrow Homes": [{
+    "name": "Dining & Drinking",
+    "score": 62.7661933899
+  }, {
+    "name": "Groceries",
+    "score": 21.9562473297
+  }, {
+    "name": "Shopping",
+    "score": 73.4171600342
+  }, {
+    "name": "Errands",
+    "score": 80.3950271606
+  }, {
+    "name": "Parks",
+    "score": 98.1925811768
+  }, {
+    "name": "Schools",
+    "score": 83.2447891235
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 61.4769668579
+  }, {
+    "name": "Walk",
+    "score": 63.0
+  }, {
+    "name": "Transit",
+    "score": 64.0
+  }, {
+    "name": "Bike",
+    "score": 77.0
+  }]
+}, {
+  "The Island": [{
+    "name": "Dining & Drinking",
+    "score": 57.7624740601
+  }, {
+    "name": "Groceries",
+    "score": 4.83335733414
+  }, {
+    "name": "Shopping",
+    "score": 19.2264442444
+  }, {
+    "name": "Errands",
+    "score": 44.9495201111
+  }, {
+    "name": "Parks",
+    "score": 100.0
+  }, {
+    "name": "Schools",
+    "score": 2.36005043983
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 99.2379226685
+  }, {
+    "name": "Walk",
+    "score": 27.0
+  }, {
+    "name": "Transit",
+    "score": 55.0
+  }, {
+    "name": "Bike",
+    "score": 60.0
+  }]
+}, {
+  "McKinley Park": [{
+    "name": "Dining & Drinking",
+    "score": 75.6317062378
+  }, {
+    "name": "Groceries",
+    "score": 88.3329544067
+  }, {
+    "name": "Shopping",
+    "score": 77.5651626587
+  }, {
+    "name": "Errands",
+    "score": 86.6967315674
+  }, {
+    "name": "Parks",
+    "score": 96.2954101562
+  }, {
+    "name": "Schools",
+    "score": 86.2926559448
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 96.0089645386
+  }, {
+    "name": "Walk",
+    "score": 83.0
+  }, {
+    "name": "Transit",
+    "score": 66.0
+  }, {
+    "name": "Bike",
+    "score": 60.0
+  }]
+}, {
+  "West Woodlawn": [{
+    "name": "Dining & Drinking",
+    "score": 61.2579727173
+  }, {
+    "name": "Groceries",
+    "score": 51.6896362305
+  }, {
+    "name": "Shopping",
+    "score": 70.1659545898
+  }, {
+    "name": "Errands",
+    "score": 83.6470184326
+  }, {
+    "name": "Parks",
+    "score": 13.5572624207
+  }, {
+    "name": "Schools",
+    "score": 83.8416442871
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 85.783706665
+  }, {
+    "name": "Walk",
+    "score": 64.0
+  }, {
+    "name": "Transit",
+    "score": 73.0
+  }, {
+    "name": "Bike",
+    "score": 75.0
+  }]
+}, {
+  "Lake Calumet": [{
+    "name": "Dining & Drinking",
+    "score": 5.31767129898
+  }, {
+    "name": "Groceries",
+    "score": 0
+  }, {
+    "name": "Shopping",
+    "score": 15.8781442642
+  }, {
+    "name": "Errands",
+    "score": 9.06409358978
+  }, {
+    "name": "Parks",
+    "score": 0
+  }, {
+    "name": "Schools",
+    "score": 0
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 0
+  }, {
+    "name": "Walk",
+    "score": 4.0
+  }, {
+    "name": "Transit",
+    "score": 0
+  }, {
+    "name": "Bike",
+    "score": 28.0
+  }]
+}, {
+  "River West": [{
+    "name": "Dining & Drinking",
+    "score": 88.8787918091
+  }, {
+    "name": "Groceries",
+    "score": 62.2329864502
+  }, {
+    "name": "Shopping",
+    "score": 96.6149673462
+  }, {
+    "name": "Errands",
+    "score": 95.367401123
+  }, {
+    "name": "Parks",
+    "score": 84.7487792969
+  }, {
+    "name": "Schools",
+    "score": 85.1237182617
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 100.0
+  }, {
+    "name": "Walk",
+    "score": 86.0
+  }, {
+    "name": "Transit",
+    "score": 80.0
+  }, {
+    "name": "Bike",
+    "score": 89.0
+  }]
+}, {
+  "Printers Row": [{
+    "name": "Dining & Drinking",
+    "score": 99.1782455444
+  }, {
+    "name": "Groceries",
+    "score": 99.0080566406
+  }, {
+    "name": "Shopping",
+    "score": 99.39868927
+  }, {
+    "name": "Errands",
+    "score": 99.4944000244
+  }, {
+    "name": "Parks",
+    "score": 100.0
+  }, {
+    "name": "Schools",
+    "score": 100.0
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 100.0
+  }, {
+    "name": "Walk",
+    "score": 99.0
+  }, {
+    "name": "Transit",
+    "score": 100.0
+  }, {
+    "name": "Bike",
+    "score": 88.0
+  }]
+}, {
+  "Garfield Ridge": [{
+    "name": "Dining & Drinking",
+    "score": 78.3976593018
+  }, {
+    "name": "Groceries",
+    "score": 50.5258560181
+  }, {
+    "name": "Shopping",
+    "score": 81.9161834717
+  }, {
+    "name": "Errands",
+    "score": 88.3595733643
+  }, {
+    "name": "Parks",
+    "score": 50.3694992065
+  }, {
+    "name": "Schools",
+    "score": 91.2043609619
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 52.9701919556
+  }, {
+    "name": "Walk",
+    "score": 72.0
+  }, {
+    "name": "Transit",
+    "score": 44.0
+  }, {
+    "name": "Bike",
+    "score": 59.0
+  }]
+}, {
+  "Palmer Square": [{
+    "name": "Dining & Drinking",
+    "score": 93.3143692017
+  }, {
+    "name": "Groceries",
+    "score": 95.9555435181
+  }, {
+    "name": "Shopping",
+    "score": 92.6474456787
+  }, {
+    "name": "Errands",
+    "score": 93.1317214966
+  }, {
+    "name": "Parks",
+    "score": 97.9821548462
+  }, {
+    "name": "Schools",
+    "score": 97.6910476685
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 96.0467071533
+  }, {
+    "name": "Walk",
+    "score": 94.0
+  }, {
+    "name": "Transit",
+    "score": 72.0
+  }, {
+    "name": "Bike",
+    "score": 99.0
+  }]
+}, {
+  "River's Edge": [{
+    "name": "Dining & Drinking",
+    "score": 32.7507858276
+  }, {
+    "name": "Groceries",
+    "score": 43.6039161682
+  }, {
+    "name": "Shopping",
+    "score": 38.2482566833
+  }, {
+    "name": "Errands",
+    "score": 57.4890861511
+  }, {
+    "name": "Parks",
+    "score": 89.23777771
+  }, {
+    "name": "Schools",
+    "score": 13.3126716614
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 11.5529956818
+  }, {
+    "name": "Walk",
+    "score": 38.0
+  }, {
+    "name": "Transit",
+    "score": 50.0
+  }, {
+    "name": "Bike",
+    "score": 66.0
+  }]
+}, {
+  "South Austin": [{
+    "name": "Dining & Drinking",
+    "score": 62.6409950256
+  }, {
+    "name": "Groceries",
+    "score": 51.7714691162
+  }, {
+    "name": "Shopping",
+    "score": 81.8296737671
+  }, {
+    "name": "Errands",
+    "score": 72.9374542236
+  }, {
+    "name": "Parks",
+    "score": 100.0
+  }, {
+    "name": "Schools",
+    "score": 96.0322113037
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 80.3140563965
+  }, {
+    "name": "Walk",
+    "score": 71.0
+  }, {
+    "name": "Transit",
+    "score": 68.0
+  }, {
+    "name": "Bike",
+    "score": 74.0
+  }]
+}, {
+  "Little Calumet River": [{
+    "name": "Dining & Drinking",
+    "score": 38.0962028503
+  }, {
+    "name": "Groceries",
+    "score": 0
+  }, {
+    "name": "Shopping",
+    "score": 0
+  }, {
+    "name": "Errands",
+    "score": 0
+  }, {
+    "name": "Parks",
+    "score": 5.17028808594
+  }, {
+    "name": "Schools",
+    "score": 27.9186668396
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 0
+  }, {
+    "name": "Walk",
+    "score": 10.0
+  }, {
+    "name": "Transit",
+    "score": 41.0
+  }, {
+    "name": "Bike",
+    "score": 31.0
+  }]
+}, {
+  "West Garfield Park": [{
+    "name": "Dining & Drinking",
+    "score": 79.8225479126
+  }, {
+    "name": "Groceries",
+    "score": 100.0
+  }, {
+    "name": "Shopping",
+    "score": 94.3676681519
+  }, {
+    "name": "Errands",
+    "score": 85.4450073242
+  }, {
+    "name": "Parks",
+    "score": 97.7994842529
+  }, {
+    "name": "Schools",
+    "score": 98.6000976562
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 92.4776611328
+  }, {
+    "name": "Walk",
+    "score": 89.0
+  }, {
+    "name": "Transit",
+    "score": 73.0
+  }, {
+    "name": "Bike",
+    "score": 75.0
+  }]
+}, {
+  "Albany Park": [{
+    "name": "Dining & Drinking",
+    "score": 91.4584732056
+  }, {
+    "name": "Groceries",
+    "score": 100.0
+  }, {
+    "name": "Shopping",
+    "score": 94.9966964722
+  }, {
+    "name": "Errands",
+    "score": 95.0695800781
+  }, {
+    "name": "Parks",
+    "score": 98.6209487915
+  }, {
+    "name": "Schools",
+    "score": 79.469833374
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 99.1796646118
+  }, {
+    "name": "Walk",
+    "score": 94.0
+  }, {
+    "name": "Transit",
+    "score": 56.0
+  }, {
+    "name": "Bike",
+    "score": 69.0
+  }]
+}, {
+  "Old Norwood Park": [{
+    "name": "Dining & Drinking",
+    "score": 64.1999435425
+  }, {
+    "name": "Groceries",
+    "score": 7.09266471863
+  }, {
+    "name": "Shopping",
+    "score": 83.7776412964
+  }, {
+    "name": "Errands",
+    "score": 80.4065704346
+  }, {
+    "name": "Parks",
+    "score": 94.3768386841
+  }, {
+    "name": "Schools",
+    "score": 92.0932235718
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 63.7897758484
+  }, {
+    "name": "Walk",
+    "score": 61.0
+  }, {
+    "name": "Transit",
+    "score": 61.0
+  }, {
+    "name": "Bike",
+    "score": 62.0
+  }]
+}, {
+  "Gage Park": [{
+    "name": "Dining & Drinking",
+    "score": 80.7812194824
+  }, {
+    "name": "Groceries",
+    "score": 93.2300949097
+  }, {
+    "name": "Shopping",
+    "score": 57.9318847656
+  }, {
+    "name": "Errands",
+    "score": 78.0909423828
+  }, {
+    "name": "Parks",
+    "score": 42.7941207886
+  }, {
+    "name": "Schools",
+    "score": 77.3715133667
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 74.4958648682
+  }, {
+    "name": "Walk",
+    "score": 75.0
+  }, {
+    "name": "Transit",
+    "score": 60.0
+  }, {
+    "name": "Bike",
+    "score": 68.0
+  }]
+}, {
+  "West Chesterfield": [{
+    "name": "Dining & Drinking",
+    "score": 44.1868133545
+  }, {
+    "name": "Groceries",
+    "score": 8.44522190094
+  }, {
+    "name": "Shopping",
+    "score": 29.1061763763
+  }, {
+    "name": "Errands",
+    "score": 55.4825782776
+  }, {
+    "name": "Parks",
+    "score": 88.7254257202
+  }, {
+    "name": "Schools",
+    "score": 84.1600494385
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 34.8686485291
+  }, {
+    "name": "Walk",
+    "score": 41.0
+  }, {
+    "name": "Transit",
+    "score": 81.0
+  }, {
+    "name": "Bike",
+    "score": 47.0
+  }]
+}, {
+  "Prairie Shores": [{
+    "name": "Dining & Drinking",
+    "score": 40.3491706848
+  }, {
+    "name": "Groceries",
+    "score": 35.4170875549
+  }, {
+    "name": "Shopping",
+    "score": 64.4493865967
+  }, {
+    "name": "Errands",
+    "score": 54.9596633911
+  }, {
+    "name": "Parks",
+    "score": 99.4463272095
+  }, {
+    "name": "Schools",
+    "score": 98.7007369995
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 62.5716018677
+  }, {
+    "name": "Walk",
+    "score": 53.0
+  }, {
+    "name": "Transit",
+    "score": 63.0
+  }, {
+    "name": "Bike",
+    "score": 78.0
+  }]
+}, {
+  "Wrightwood Neighbors": [{
+    "name": "Dining & Drinking",
+    "score": 93.6782226562
+  }, {
+    "name": "Groceries",
+    "score": 80.8670578003
+  }, {
+    "name": "Shopping",
+    "score": 93.0664672852
+  }, {
+    "name": "Errands",
+    "score": 97.5191268921
+  }, {
+    "name": "Parks",
+    "score": 100.0
+  }, {
+    "name": "Schools",
+    "score": 79.2489471436
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 98.9621124268
+  }, {
+    "name": "Walk",
+    "score": 91.0
+  }, {
+    "name": "Transit",
+    "score": 79.0
+  }, {
+    "name": "Bike",
+    "score": 86.0
+  }]
+}, {
+  "Big Oaks": [{
+    "name": "Dining & Drinking",
+    "score": 49.8350601196
+  }, {
+    "name": "Groceries",
+    "score": 32.9644393921
+  }, {
+    "name": "Shopping",
+    "score": 35.3547363281
+  }, {
+    "name": "Errands",
+    "score": 46.7229537964
+  }, {
+    "name": "Parks",
+    "score": 16.8619918823
+  }, {
+    "name": "Schools",
+    "score": 83.5612411499
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 10.9656352997
+  }, {
+    "name": "Walk",
+    "score": 41.0
+  }, {
+    "name": "Transit",
+    "score": 47.0
+  }, {
+    "name": "Bike",
+    "score": 59.0
+  }]
+}, {
+  "Brynford Park": [{
+    "name": "Dining & Drinking",
+    "score": 38.0242614746
+  }, {
+    "name": "Groceries",
+    "score": 19.7786884308
+  }, {
+    "name": "Shopping",
+    "score": 67.3347473145
+  }, {
+    "name": "Errands",
+    "score": 57.2710952759
+  }, {
+    "name": "Parks",
+    "score": 87.9083709717
+  }, {
+    "name": "Schools",
+    "score": 96.3398666382
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 8.91382026672
+  }, {
+    "name": "Walk",
+    "score": 45.0
+  }, {
+    "name": "Transit",
+    "score": 45.0
+  }, {
+    "name": "Bike",
+    "score": 67.0
+  }]
+}, {
+  "Chatham": [{
+    "name": "Dining & Drinking",
+    "score": 76.4776916504
+  }, {
+    "name": "Groceries",
+    "score": 46.9530944824
+  }, {
+    "name": "Shopping",
+    "score": 84.7622451782
+  }, {
+    "name": "Errands",
+    "score": 83.6249389648
+  }, {
+    "name": "Parks",
+    "score": 94.7229232788
+  }, {
+    "name": "Schools",
+    "score": 98.9112930298
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 45.3096084595
+  }, {
+    "name": "Walk",
+    "score": 73.0
+  }, {
+    "name": "Transit",
+    "score": 65.0
+  }, {
+    "name": "Bike",
+    "score": 60.0
+  }]
+}, {
+  "Harbour Point Estates": [{
+    "name": "Dining & Drinking",
+    "score": 43.5958518982
+  }, {
+    "name": "Groceries",
+    "score": 7.26570367813
+  }, {
+    "name": "Shopping",
+    "score": 12.4081573486
+  }, {
+    "name": "Errands",
+    "score": 9.86416244507
+  }, {
+    "name": "Parks",
+    "score": 27.1201095581
+  }, {
+    "name": "Schools",
+    "score": 9.9317741394
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 0
+  }, {
+    "name": "Walk",
+    "score": 16.0
+  }, {
+    "name": "Transit",
+    "score": 31.0
+  }, {
+    "name": "Bike",
+    "score": 30.0
+  }]
+}, {
+  "Chicago Lawn": [{
+    "name": "Dining & Drinking",
+    "score": 74.7319030762
+  }, {
+    "name": "Groceries",
+    "score": 56.1845855713
+  }, {
+    "name": "Shopping",
+    "score": 63.9322433472
+  }, {
+    "name": "Errands",
+    "score": 54.6393890381
+  }, {
+    "name": "Parks",
+    "score": 91.6045837402
+  }, {
+    "name": "Schools",
+    "score": 97.2297821045
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 34.9153327942
+  }, {
+    "name": "Walk",
+    "score": 65.0
+  }, {
+    "name": "Transit",
+    "score": 59.0
+  }, {
+    "name": "Bike",
+    "score": 64.0
+  }]
+}, {
+  "Bronzeville": [{
+    "name": "Dining & Drinking",
+    "score": 72.4105758667
+  }, {
+    "name": "Groceries",
+    "score": 31.5917720795
+  }, {
+    "name": "Shopping",
+    "score": 83.2779312134
+  }, {
+    "name": "Errands",
+    "score": 78.6498718262
+  }, {
+    "name": "Parks",
+    "score": 65.4316558838
+  }, {
+    "name": "Schools",
+    "score": 93.5681304932
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 86.0547866821
+  }, {
+    "name": "Walk",
+    "score": 69.0
+  }, {
+    "name": "Transit",
+    "score": 68.0
+  }, {
+    "name": "Bike",
+    "score": 68.0
+  }]
+}, {
+  "Brainerd": [{
+    "name": "Dining & Drinking",
+    "score": 75.7110061646
+  }, {
+    "name": "Groceries",
+    "score": 35.5637893677
+  }, {
+    "name": "Shopping",
+    "score": 60.4938659668
+  }, {
+    "name": "Errands",
+    "score": 73.8897247314
+  }, {
+    "name": "Parks",
+    "score": 90.7894134521
+  }, {
+    "name": "Schools",
+    "score": 90.3487472534
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 57.3501777649
+  }, {
+    "name": "Walk",
+    "score": 66.0
+  }, {
+    "name": "Transit",
+    "score": 64.0
+  }, {
+    "name": "Bike",
+    "score": 62.0
+  }]
+}, {
+  "West Lawn": [{
+    "name": "Dining & Drinking",
+    "score": 82.4283981323
+  }, {
+    "name": "Groceries",
+    "score": 80.3956222534
+  }, {
+    "name": "Shopping",
+    "score": 82.4556884766
+  }, {
+    "name": "Errands",
+    "score": 83.1353225708
+  }, {
+    "name": "Parks",
+    "score": 83.0722808838
+  }, {
+    "name": "Schools",
+    "score": 73.0897903442
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 97.9994430542
+  }, {
+    "name": "Walk",
+    "score": 82.0
+  }, {
+    "name": "Transit",
+    "score": 50.0
+  }, {
+    "name": "Bike",
+    "score": 66.0
+  }]
+}, {
+  "Beverly": [{
+    "name": "Dining & Drinking",
+    "score": 67.5427856445
+  }, {
+    "name": "Groceries",
+    "score": 75.1742248535
+  }, {
+    "name": "Shopping",
+    "score": 82.6206054688
+  }, {
+    "name": "Errands",
+    "score": 76.3573608398
+  }, {
+    "name": "Parks",
+    "score": 73.2201309204
+  }, {
+    "name": "Schools",
+    "score": 75.1498641968
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 32.1459503174
+  }, {
+    "name": "Walk",
+    "score": 71.0
+  }, {
+    "name": "Transit",
+    "score": 53.0
+  }, {
+    "name": "Bike",
+    "score": 72.0
+  }]
+}, {
+  "The Gap": [{
+    "name": "Dining & Drinking",
+    "score": 73.1674118042
+  }, {
+    "name": "Groceries",
+    "score": 70.063911438
+  }, {
+    "name": "Shopping",
+    "score": 78.8899841309
+  }, {
+    "name": "Errands",
+    "score": 82.5168533325
+  }, {
+    "name": "Parks",
+    "score": 100.0
+  }, {
+    "name": "Schools",
+    "score": 100.0
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 93.3488845825
+  }, {
+    "name": "Walk",
+    "score": 76.0
+  }, {
+    "name": "Transit",
+    "score": 74.0
+  }, {
+    "name": "Bike",
+    "score": 83.0
+  }]
+}, {
+  "Lincoln Park": [{
+    "name": "Dining & Drinking",
+    "score": 97.8550415039
+  }, {
+    "name": "Groceries",
+    "score": 73.4104232788
+  }, {
+    "name": "Shopping",
+    "score": 96.9976425171
+  }, {
+    "name": "Errands",
+    "score": 97.4532241821
+  }, {
+    "name": "Parks",
+    "score": 100.0
+  }, {
+    "name": "Schools",
+    "score": 93.1871795654
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 100.0
+  }, {
+    "name": "Walk",
+    "score": 92.0
+  }, {
+    "name": "Transit",
+    "score": 83.0
+  }, {
+    "name": "Bike",
+    "score": 89.0
+  }]
+}, {
+  "Lathrop Homes": [{
+    "name": "Dining & Drinking",
+    "score": 83.9472045898
+  }, {
+    "name": "Groceries",
+    "score": 81.8302154541
+  }, {
+    "name": "Shopping",
+    "score": 95.6330871582
+  }, {
+    "name": "Errands",
+    "score": 92.6983108521
+  }, {
+    "name": "Parks",
+    "score": 96.0231628418
+  }, {
+    "name": "Schools",
+    "score": 74.3666152954
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 65.3785705566
+  }, {
+    "name": "Walk",
+    "score": 84.0
+  }, {
+    "name": "Transit",
+    "score": 64.0
+  }, {
+    "name": "Bike",
+    "score": 94.0
+  }]
+}, {
+  "Back of the Yards": [{
+    "name": "Dining & Drinking",
+    "score": 85.7979660034
+  }, {
+    "name": "Groceries",
+    "score": 94.7464294434
+  }, {
+    "name": "Shopping",
+    "score": 92.2828521729
+  }, {
+    "name": "Errands",
+    "score": 89.3714828491
+  }, {
+    "name": "Parks",
+    "score": 99.1797332764
+  }, {
+    "name": "Schools",
+    "score": 98.991065979
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 52.6414718628
+  }, {
+    "name": "Walk",
+    "score": 88.0
+  }, {
+    "name": "Transit",
+    "score": 60.0
+  }, {
+    "name": "Bike",
+    "score": 63.0
+  }]
+}, {
+  "Lithuanian Plaza": [{
+    "name": "Dining & Drinking",
+    "score": 67.2076721191
+  }, {
+    "name": "Groceries",
+    "score": 14.6644334793
+  }, {
+    "name": "Shopping",
+    "score": 76.1661453247
+  }, {
+    "name": "Errands",
+    "score": 84.3515319824
+  }, {
+    "name": "Parks",
+    "score": 82.092338562
+  }, {
+    "name": "Schools",
+    "score": 91.0235977173
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 2.36005043983
+  }, {
+    "name": "Walk",
+    "score": 59.0
+  }, {
+    "name": "Transit",
+    "score": 58.0
+  }, {
+    "name": "Bike",
+    "score": 64.0
+  }]
+}, {
+  "The Loop": [{
+    "name": "Dining & Drinking",
+    "score": 99.7268676758
+  }, {
+    "name": "Groceries",
+    "score": 72.6867218018
+  }, {
+    "name": "Shopping",
+    "score": 99.9995346069
+  }, {
+    "name": "Errands",
+    "score": 99.6535339355
+  }, {
+    "name": "Parks",
+    "score": 100.0
+  }, {
+    "name": "Schools",
+    "score": 98.4678192139
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 100.0
+  }, {
+    "name": "Walk",
+    "score": 95.0
+  }, {
+    "name": "Transit",
+    "score": 100.0
+  }, {
+    "name": "Bike",
+    "score": 79.0
+  }]
+}, {
+  "South Old Irving Park": [{
+    "name": "Dining & Drinking",
+    "score": 84.4327316284
+  }, {
+    "name": "Groceries",
+    "score": 91.0812988281
+  }, {
+    "name": "Shopping",
+    "score": 91.8394622803
+  }, {
+    "name": "Errands",
+    "score": 90.0588989258
+  }, {
+    "name": "Parks",
+    "score": 83.5094070435
+  }, {
+    "name": "Schools",
+    "score": 92.8346099854
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 60.3219909668
+  }, {
+    "name": "Walk",
+    "score": 87.0
+  }, {
+    "name": "Transit",
+    "score": 70.0
+  }, {
+    "name": "Bike",
+    "score": 69.0
+  }]
+}, {
+  "Wentworth Gardens": [{
+    "name": "Dining & Drinking",
+    "score": 52.6460456848
+  }, {
+    "name": "Groceries",
+    "score": 16.0406093597
+  }, {
+    "name": "Shopping",
+    "score": 60.1281776428
+  }, {
+    "name": "Errands",
+    "score": 66.1745834351
+  }, {
+    "name": "Parks",
+    "score": 61.8059997559
+  }, {
+    "name": "Schools",
+    "score": 85.5758895874
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 86.5952148438
+  }, {
+    "name": "Walk",
+    "score": 51.0
+  }, {
+    "name": "Transit",
+    "score": 72.0
+  }, {
+    "name": "Bike",
+    "score": 49.0
+  }]
+}, {
+  "Chrysler Village": [{
+    "name": "Dining & Drinking",
+    "score": 45.016998291
+  }, {
+    "name": "Groceries",
+    "score": 22.6389827728
+  }, {
+    "name": "Shopping",
+    "score": 56.6995506287
+  }, {
+    "name": "Errands",
+    "score": 65.9338378906
+  }, {
+    "name": "Parks",
+    "score": 78.3919525146
+  }, {
+    "name": "Schools",
+    "score": 49.4641799927
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 0
+  }, {
+    "name": "Walk",
+    "score": 43.0
+  }, {
+    "name": "Transit",
+    "score": 53.0
+  }, {
+    "name": "Bike",
+    "score": 41.0
+  }]
+}, {
+  "Portage Park": [{
+    "name": "Dining & Drinking",
+    "score": 86.3856048584
+  }, {
+    "name": "Groceries",
+    "score": 61.9516601562
+  }, {
+    "name": "Shopping",
+    "score": 76.1161270142
+  }, {
+    "name": "Errands",
+    "score": 80.7923049927
+  }, {
+    "name": "Parks",
+    "score": 91.6992340088
+  }, {
+    "name": "Schools",
+    "score": 60.5925636292
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 41.9115867615
+  }, {
+    "name": "Walk",
+    "score": 74.0
+  }, {
+    "name": "Transit",
+    "score": 57.0
+  }, {
+    "name": "Bike",
+    "score": 60.0
+  }]
+}, {
+  "Hegewisch": [{
+    "name": "Dining & Drinking",
+    "score": 73.2718505859
+  }, {
+    "name": "Groceries",
+    "score": 99.8266143799
+  }, {
+    "name": "Shopping",
+    "score": 69.6756286621
+  }, {
+    "name": "Errands",
+    "score": 73.4639282227
+  }, {
+    "name": "Parks",
+    "score": 71.1113891602
+  }, {
+    "name": "Schools",
+    "score": 99.9083099365
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 54.5955276489
+  }, {
+    "name": "Walk",
+    "score": 76.0
+  }, {
+    "name": "Transit",
+    "score": 33.0
+  }, {
+    "name": "Bike",
+    "score": 75.0
+  }]
+}, {
+  "Sauganash Woods": [{
+    "name": "Dining & Drinking",
+    "score": 12.7239713669
+  }, {
+    "name": "Groceries",
+    "score": 34.5732688904
+  }, {
+    "name": "Shopping",
+    "score": 54.1416015625
+  }, {
+    "name": "Errands",
+    "score": 67.4451293945
+  }, {
+    "name": "Parks",
+    "score": 81.1963882446
+  }, {
+    "name": "Schools",
+    "score": 54.7839698792
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 0.72391474247
+  }, {
+    "name": "Walk",
+    "score": 37.0
+  }, {
+    "name": "Transit",
+    "score": 47.0
+  }, {
+    "name": "Bike",
+    "score": 64.0
+  }]
+}, {
+  "River North": [{
+    "name": "Dining & Drinking",
+    "score": 99.486907959
+  }, {
+    "name": "Groceries",
+    "score": 92.7637863159
+  }, {
+    "name": "Shopping",
+    "score": 99.8612518311
+  }, {
+    "name": "Errands",
+    "score": 99.4489898682
+  }, {
+    "name": "Parks",
+    "score": 97.4843597412
+  }, {
+    "name": "Schools",
+    "score": 87.9057922363
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 100.0
+  }, {
+    "name": "Walk",
+    "score": 97.0
+  }, {
+    "name": "Transit",
+    "score": 100.0
+  }, {
+    "name": "Bike",
+    "score": 85.0
+  }]
+}, {
+  "Powder Horn Lake": [{
+    "name": "Dining & Drinking",
+    "score": 16.4622879028
+  }, {
+    "name": "Groceries",
+    "score": 0
+  }, {
+    "name": "Shopping",
+    "score": 3.11358523369
+  }, {
+    "name": "Errands",
+    "score": 1.95141625404
+  }, {
+    "name": "Parks",
+    "score": 13.2104682922
+  }, {
+    "name": "Schools",
+    "score": 10.0973529816
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 0
+  }, {
+    "name": "Walk",
+    "score": 5.0
+  }, {
+    "name": "Transit",
+    "score": 0
+  }, {
+    "name": "Bike",
+    "score": 29.0
+  }]
+}, {
+  "Archer Heights": [{
+    "name": "Dining & Drinking",
+    "score": 82.9036178589
+  }, {
+    "name": "Groceries",
+    "score": 94.6190872192
+  }, {
+    "name": "Shopping",
+    "score": 70.6954269409
+  }, {
+    "name": "Errands",
+    "score": 80.7767868042
+  }, {
+    "name": "Parks",
+    "score": 39.3059501648
+  }, {
+    "name": "Schools",
+    "score": 71.8016891479
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 27.1178188324
+  }, {
+    "name": "Walk",
+    "score": 74.0
+  }, {
+    "name": "Transit",
+    "score": 50.0
+  }, {
+    "name": "Bike",
+    "score": 55.0
+  }]
+}, {
+  "Fernwood": [{
+    "name": "Dining & Drinking",
+    "score": 66.5552978516
+  }, {
+    "name": "Groceries",
+    "score": 7.45991945267
+  }, {
+    "name": "Shopping",
+    "score": 75.2064437866
+  }, {
+    "name": "Errands",
+    "score": 73.4974822998
+  }, {
+    "name": "Parks",
+    "score": 99.3127746582
+  }, {
+    "name": "Schools",
+    "score": 92.8928375244
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 5.77376079559
+  }, {
+    "name": "Walk",
+    "score": 57.0
+  }, {
+    "name": "Transit",
+    "score": 52.0
+  }, {
+    "name": "Bike",
+    "score": 47.0
+  }]
+}, {
+  "Greektown": [{
+    "name": "Dining & Drinking",
+    "score": 97.7500076294
+  }, {
+    "name": "Groceries",
+    "score": 94.2756500244
+  }, {
+    "name": "Shopping",
+    "score": 95.7221984863
+  }, {
+    "name": "Errands",
+    "score": 97.7121047974
+  }, {
+    "name": "Parks",
+    "score": 77.6961364746
+  }, {
+    "name": "Schools",
+    "score": 85.0197143555
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 100.0
+  }, {
+    "name": "Walk",
+    "score": 94.0
+  }, {
+    "name": "Transit",
+    "score": 98.0
+  }, {
+    "name": "Bike",
+    "score": 85.0
+  }]
+}, {
+  "Pill Hill": [{
+    "name": "Dining & Drinking",
+    "score": 62.7319564819
+  }, {
+    "name": "Groceries",
+    "score": 27.2548046112
+  }, {
+    "name": "Shopping",
+    "score": 73.1572418213
+  }, {
+    "name": "Errands",
+    "score": 70.7622451782
+  }, {
+    "name": "Parks",
+    "score": 73.284576416
+  }, {
+    "name": "Schools",
+    "score": 97.3800354004
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 55.9364547729
+  }, {
+    "name": "Walk",
+    "score": 61.0
+  }, {
+    "name": "Transit",
+    "score": 57.0
+  }, {
+    "name": "Bike",
+    "score": 61.0
+  }]
+}, {
+  "Fuller Park": [{
+    "name": "Dining & Drinking",
+    "score": 63.8172721863
+  }, {
+    "name": "Groceries",
+    "score": 20.6103973389
+  }, {
+    "name": "Shopping",
+    "score": 62.0013313293
+  }, {
+    "name": "Errands",
+    "score": 71.1782608032
+  }, {
+    "name": "Parks",
+    "score": 85.6252288818
+  }, {
+    "name": "Schools",
+    "score": 95.4120941162
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 13.7656593323
+  }, {
+    "name": "Walk",
+    "score": 55.0
+  }, {
+    "name": "Transit",
+    "score": 74.0
+  }, {
+    "name": "Bike",
+    "score": 56.0
+  }]
+}, {
+  "The Robert Taylor Homes": [{
+    "name": "Dining & Drinking",
+    "score": 99.9266433716
+  }, {
+    "name": "Groceries",
+    "score": 92.9574813843
+  }, {
+    "name": "Shopping",
+    "score": 99.9970932007
+  }, {
+    "name": "Errands",
+    "score": 99.921875
+  }, {
+    "name": "Parks",
+    "score": 100.0
+  }, {
+    "name": "Schools",
+    "score": 93.4942932129
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 100.0
+  }, {
+    "name": "Walk",
+    "score": 98.0
+  }, {
+    "name": "Transit",
+    "score": 100.0
+  }, {
+    "name": "Bike",
+    "score": 81.0
+  }]
+}, {
+  "Hollywood Park": [{
+    "name": "Dining & Drinking",
+    "score": 72.1987609863
+  }, {
+    "name": "Groceries",
+    "score": 63.0894851685
+  }, {
+    "name": "Shopping",
+    "score": 74.3425292969
+  }, {
+    "name": "Errands",
+    "score": 83.5300598145
+  }, {
+    "name": "Parks",
+    "score": 97.5928497314
+  }, {
+    "name": "Schools",
+    "score": 78.1603240967
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 64.8006896973
+  }, {
+    "name": "Walk",
+    "score": 72.0
+  }, {
+    "name": "Transit",
+    "score": 56.0
+  }, {
+    "name": "Bike",
+    "score": 71.0
+  }]
+}, {
+  "South East Ravenswood": [{
+    "name": "Dining & Drinking",
+    "score": 93.6068878174
+  }, {
+    "name": "Groceries",
+    "score": 93.5628585815
+  }, {
+    "name": "Shopping",
+    "score": 97.3927612305
+  }, {
+    "name": "Errands",
+    "score": 97.5889282227
+  }, {
+    "name": "Parks",
+    "score": 99.0783233643
+  }, {
+    "name": "Schools",
+    "score": 97.1120147705
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 90.9272384644
+  }, {
+    "name": "Walk",
+    "score": 94.0
+  }, {
+    "name": "Transit",
+    "score": 70.0
+  }, {
+    "name": "Bike",
+    "score": 91.0
+  }]
+}, {
+  "West Town": [{
+    "name": "Dining & Drinking",
+    "score": 94.4561004639
+  }, {
+    "name": "Groceries",
+    "score": 94.5968475342
+  }, {
+    "name": "Shopping",
+    "score": 94.7923355103
+  }, {
+    "name": "Errands",
+    "score": 92.9009628296
+  }, {
+    "name": "Parks",
+    "score": 99.7919845581
+  }, {
+    "name": "Schools",
+    "score": 87.4283065796
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 85.0197143555
+  }, {
+    "name": "Walk",
+    "score": 94.0
+  }, {
+    "name": "Transit",
+    "score": 73.0
+  }, {
+    "name": "Bike",
+    "score": 87.0
+  }]
+}, {
+  "Irving Woods": [{
+    "name": "Dining & Drinking",
+    "score": 46.8967437744
+  }, {
+    "name": "Groceries",
+    "score": 62.1631851196
+  }, {
+    "name": "Shopping",
+    "score": 40.0587348938
+  }, {
+    "name": "Errands",
+    "score": 55.0900802612
+  }, {
+    "name": "Parks",
+    "score": 71.7004547119
+  }, {
+    "name": "Schools",
+    "score": 90.0492095947
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 12.9736213684
+  }, {
+    "name": "Walk",
+    "score": 51.0
+  }, {
+    "name": "Transit",
+    "score": 50.0
+  }, {
+    "name": "Bike",
+    "score": 53.0
+  }]
+}, {
+  "Edgebrook": [{
+    "name": "Dining & Drinking",
+    "score": 70.3365249634
+  }, {
+    "name": "Groceries",
+    "score": 76.3498840332
+  }, {
+    "name": "Shopping",
+    "score": 89.3637466431
+  }, {
+    "name": "Errands",
+    "score": 89.8063583374
+  }, {
+    "name": "Parks",
+    "score": 100.0
+  }, {
+    "name": "Schools",
+    "score": 71.0759963989
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 71.8713302612
+  }, {
+    "name": "Walk",
+    "score": 80.0
+  }, {
+    "name": "Transit",
+    "score": 44.0
+  }, {
+    "name": "Bike",
+    "score": 79.0
+  }]
+}, {
+  "Streeterville": [{
+    "name": "Dining & Drinking",
+    "score": 99.5361328125
+  }, {
+    "name": "Groceries",
+    "score": 99.1976623535
+  }, {
+    "name": "Shopping",
+    "score": 99.4820251465
+  }, {
+    "name": "Errands",
+    "score": 99.6833724976
+  }, {
+    "name": "Parks",
+    "score": 99.871925354
+  }, {
+    "name": "Schools",
+    "score": 45.6497459412
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 100.0
+  }, {
+    "name": "Walk",
+    "score": 96.0
+  }, {
+    "name": "Transit",
+    "score": 100.0
+  }, {
+    "name": "Bike",
+    "score": 83.0
+  }]
+}, {
+  "Ravenswood Manor": [{
+    "name": "Dining & Drinking",
+    "score": 84.0536117554
+  }, {
+    "name": "Groceries",
+    "score": 73.8768997192
+  }, {
+    "name": "Shopping",
+    "score": 88.5927352905
+  }, {
+    "name": "Errands",
+    "score": 91.7405319214
+  }, {
+    "name": "Parks",
+    "score": 100.0
+  }, {
+    "name": "Schools",
+    "score": 76.9682846069
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 96.7507476807
+  }, {
+    "name": "Walk",
+    "score": 85.0
+  }, {
+    "name": "Transit",
+    "score": 66.0
+  }, {
+    "name": "Bike",
+    "score": 93.0
+  }]
+}, {
+  "Edgewater Beach": [{
+    "name": "Dining & Drinking",
+    "score": 87.3544921875
+  }, {
+    "name": "Groceries",
+    "score": 92.9579925537
+  }, {
+    "name": "Shopping",
+    "score": 85.2051391602
+  }, {
+    "name": "Errands",
+    "score": 93.7432022095
+  }, {
+    "name": "Parks",
+    "score": 99.0082168579
+  }, {
+    "name": "Schools",
+    "score": 67.2028045654
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 87.7862472534
+  }, {
+    "name": "Walk",
+    "score": 85.0
+  }, {
+    "name": "Transit",
+    "score": 74.0
+  }, {
+    "name": "Bike",
+    "score": 88.0
+  }]
+}, {
+  "Logan Square": [{
+    "name": "Dining & Drinking",
+    "score": 88.8027877808
+  }, {
+    "name": "Groceries",
+    "score": 87.6006546021
+  }, {
+    "name": "Shopping",
+    "score": 91.2502059937
+  }, {
+    "name": "Errands",
+    "score": 92.8372344971
+  }, {
+    "name": "Parks",
+    "score": 99.4362411499
+  }, {
+    "name": "Schools",
+    "score": 87.4347763062
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 99.4461898804
+  }, {
+    "name": "Walk",
+    "score": 91.0
+  }, {
+    "name": "Transit",
+    "score": 70.0
+  }, {
+    "name": "Bike",
+    "score": 99.0
+  }]
+}, {
+  "West Humboldt Park": [{
+    "name": "Dining & Drinking",
+    "score": 67.1443710327
+  }, {
+    "name": "Groceries",
+    "score": 73.3860244751
+  }, {
+    "name": "Shopping",
+    "score": 87.6028518677
+  }, {
+    "name": "Errands",
+    "score": 81.1022415161
+  }, {
+    "name": "Parks",
+    "score": 98.806388855
+  }, {
+    "name": "Schools",
+    "score": 78.988067627
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 73.809425354
+  }, {
+    "name": "Walk",
+    "score": 75.0
+  }, {
+    "name": "Transit",
+    "score": 64.0
+  }, {
+    "name": "Bike",
+    "score": 63.0
+  }]
+}, {
+  "Sleepy Hollow": [{
+    "name": "Dining & Drinking",
+    "score": 61.395488739
+  }, {
+    "name": "Groceries",
+    "score": 59.5991287231
+  }, {
+    "name": "Shopping",
+    "score": 73.0404510498
+  }, {
+    "name": "Errands",
+    "score": 53.4721908569
+  }, {
+    "name": "Parks",
+    "score": 51.0187492371
+  }, {
+    "name": "Schools",
+    "score": 83.9696807861
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 27.38697052
+  }, {
+    "name": "Walk",
+    "score": 59.0
+  }, {
+    "name": "Transit",
+    "score": 44.0
+  }, {
+    "name": "Bike",
+    "score": 44.0
+  }]
+}, {
+  "East Pilsen": [{
+    "name": "Dining & Drinking",
+    "score": 84.8226852417
+  }, {
+    "name": "Groceries",
+    "score": 91.6435470581
+  }, {
+    "name": "Shopping",
+    "score": 94.4190216064
+  }, {
+    "name": "Errands",
+    "score": 89.3192825317
+  }, {
+    "name": "Parks",
+    "score": 99.7024765015
+  }, {
+    "name": "Schools",
+    "score": 91.1689300537
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 100.0
+  }, {
+    "name": "Walk",
+    "score": 90.0
+  }, {
+    "name": "Transit",
+    "score": 69.0
+  }, {
+    "name": "Bike",
+    "score": 94.0
+  }]
+}, {
+  "Old Town": [{
+    "name": "Dining & Drinking",
+    "score": 94.974067688
+  }, {
+    "name": "Groceries",
+    "score": 85.3817901611
+  }, {
+    "name": "Shopping",
+    "score": 92.6430358887
+  }, {
+    "name": "Errands",
+    "score": 96.6591110229
+  }, {
+    "name": "Parks",
+    "score": 99.18724823
+  }, {
+    "name": "Schools",
+    "score": 93.2877502441
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 94.3341522217
+  }, {
+    "name": "Walk",
+    "score": 93.0
+  }, {
+    "name": "Transit",
+    "score": 84.0
+  }, {
+    "name": "Bike",
+    "score": 90.0
+  }]
+}, {
+  "Ravenswood Gardens": [{
+    "name": "Dining & Drinking",
+    "score": 88.1889038086
+  }, {
+    "name": "Groceries",
+    "score": 83.0771713257
+  }, {
+    "name": "Shopping",
+    "score": 91.4383392334
+  }, {
+    "name": "Errands",
+    "score": 91.7465286255
+  }, {
+    "name": "Parks",
+    "score": 100.0
+  }, {
+    "name": "Schools",
+    "score": 84.3367614746
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 83.7467651367
+  }, {
+    "name": "Walk",
+    "score": 87.0
+  }, {
+    "name": "Transit",
+    "score": 67.0
+  }, {
+    "name": "Bike",
+    "score": 86.0
+  }]
+}, {
+  "Dunning": [{
+    "name": "Dining & Drinking",
+    "score": 87.682975769
+  }, {
+    "name": "Groceries",
+    "score": 85.1371078491
+  }, {
+    "name": "Shopping",
+    "score": 94.4518203735
+  }, {
+    "name": "Errands",
+    "score": 93.0969009399
+  }, {
+    "name": "Parks",
+    "score": 60.0012435913
+  }, {
+    "name": "Schools",
+    "score": 62.7255592346
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 52.9435844421
+  }, {
+    "name": "Walk",
+    "score": 83.0
+  }, {
+    "name": "Transit",
+    "score": 56.0
+  }, {
+    "name": "Bike",
+    "score": 63.0
+  }]
+}, {
+  "LeClaire Courts": [{
+    "name": "Dining & Drinking",
+    "score": 52.4880867004
+  }, {
+    "name": "Groceries",
+    "score": 1.43287408352
+  }, {
+    "name": "Shopping",
+    "score": 50.7839508057
+  }, {
+    "name": "Errands",
+    "score": 60.1043510437
+  }, {
+    "name": "Parks",
+    "score": 53.4454498291
+  }, {
+    "name": "Schools",
+    "score": 74.9818344116
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 3.06570386887
+  }, {
+    "name": "Walk",
+    "score": 41.0
+  }, {
+    "name": "Transit",
+    "score": 40.0
+  }, {
+    "name": "Bike",
+    "score": 45.0
+  }]
+}, {
+  "Near West Side": [{
+    "name": "Dining & Drinking",
+    "score": 95.8138885498
+  }, {
+    "name": "Groceries",
+    "score": 99.4797058105
+  }, {
+    "name": "Shopping",
+    "score": 97.2614593506
+  }, {
+    "name": "Errands",
+    "score": 96.5383682251
+  }, {
+    "name": "Parks",
+    "score": 100.0
+  }, {
+    "name": "Schools",
+    "score": 87.8188247681
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 91.0330200195
+  }, {
+    "name": "Walk",
+    "score": 96.0
+  }, {
+    "name": "Transit",
+    "score": 79.0
+  }, {
+    "name": "Bike",
+    "score": 91.0
+  }]
+}, {
+  "Little Village": [{
+    "name": "Dining & Drinking",
+    "score": 86.1950149536
+  }, {
+    "name": "Groceries",
+    "score": 98.1193313599
+  }, {
+    "name": "Shopping",
+    "score": 91.7096328735
+  }, {
+    "name": "Errands",
+    "score": 88.9188842773
+  }, {
+    "name": "Parks",
+    "score": 88.8213348389
+  }, {
+    "name": "Schools",
+    "score": 97.8700866699
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 98.0299682617
+  }, {
+    "name": "Walk",
+    "score": 89.0
+  }, {
+    "name": "Transit",
+    "score": 60.0
+  }, {
+    "name": "Bike",
+    "score": 71.0
+  }]
+}, {
+  "Chinatown": [{
+    "name": "Dining & Drinking",
+    "score": 98.1279983521
+  }, {
+    "name": "Groceries",
+    "score": 100.0
+  }, {
+    "name": "Shopping",
+    "score": 95.4067230225
+  }, {
+    "name": "Errands",
+    "score": 95.7682800293
+  }, {
+    "name": "Parks",
+    "score": 100.0
+  }, {
+    "name": "Schools",
+    "score": 100.0
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 100.0
+  }, {
+    "name": "Walk",
+    "score": 97.0
+  }, {
+    "name": "Transit",
+    "score": 79.0
+  }, {
+    "name": "Bike",
+    "score": 81.0
+  }]
+}, {
+  "North Austin": [{
+    "name": "Dining & Drinking",
+    "score": 76.7682037354
+  }, {
+    "name": "Groceries",
+    "score": 20.683511734
+  }, {
+    "name": "Shopping",
+    "score": 84.094833374
+  }, {
+    "name": "Errands",
+    "score": 89.8427886963
+  }, {
+    "name": "Parks",
+    "score": 93.6236343384
+  }, {
+    "name": "Schools",
+    "score": 86.3112640381
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 96.0874786377
+  }, {
+    "name": "Walk",
+    "score": 72.0
+  }, {
+    "name": "Transit",
+    "score": 61.0
+  }, {
+    "name": "Bike",
+    "score": 54.0
+  }]
+}, {
+  "Peterson Park": [{
+    "name": "Dining & Drinking",
+    "score": 79.0285797119
+  }, {
+    "name": "Groceries",
+    "score": 80.040184021
+  }, {
+    "name": "Shopping",
+    "score": 80.5793151855
+  }, {
+    "name": "Errands",
+    "score": 89.7897796631
+  }, {
+    "name": "Parks",
+    "score": 99.6032714844
+  }, {
+    "name": "Schools",
+    "score": 98.4694061279
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 91.8852005005
+  }, {
+    "name": "Walk",
+    "score": 84.0
+  }, {
+    "name": "Transit",
+    "score": 55.0
+  }, {
+    "name": "Bike",
+    "score": 87.0
+  }]
+}, {
+  "Gladstone Park": [{
+    "name": "Dining & Drinking",
+    "score": 81.7807693481
+  }, {
+    "name": "Groceries",
+    "score": 55.3680801392
+  }, {
+    "name": "Shopping",
+    "score": 87.8829727173
+  }, {
+    "name": "Errands",
+    "score": 91.2813262939
+  }, {
+    "name": "Parks",
+    "score": 93.1703414917
+  }, {
+    "name": "Schools",
+    "score": 79.90599823
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 93.0904846191
+  }, {
+    "name": "Walk",
+    "score": 81.0
+  }, {
+    "name": "Transit",
+    "score": 59.0
+  }, {
+    "name": "Bike",
+    "score": 76.0
+  }]
+}, {
+  "West Englewood": [{
+    "name": "Dining & Drinking",
+    "score": 73.5363845825
+  }, {
+    "name": "Groceries",
+    "score": 95.6915054321
+  }, {
+    "name": "Shopping",
+    "score": 72.4607925415
+  }, {
+    "name": "Errands",
+    "score": 70.2103805542
+  }, {
+    "name": "Parks",
+    "score": 94.0279388428
+  }, {
+    "name": "Schools",
+    "score": 97.1116027832
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 68.3719482422
+  }, {
+    "name": "Walk",
+    "score": 79.0
+  }, {
+    "name": "Transit",
+    "score": 66.0
+  }, {
+    "name": "Bike",
+    "score": 62.0
+  }]
+}, {
+  "Old Town Triangle": [{
+    "name": "Dining & Drinking",
+    "score": 94.974067688
+  }, {
+    "name": "Groceries",
+    "score": 85.3817901611
+  }, {
+    "name": "Shopping",
+    "score": 92.6430358887
+  }, {
+    "name": "Errands",
+    "score": 96.6591110229
+  }, {
+    "name": "Parks",
+    "score": 99.18724823
+  }, {
+    "name": "Schools",
+    "score": 93.2877502441
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 94.3341522217
+  }, {
+    "name": "Walk",
+    "score": 93.0
+  }, {
+    "name": "Transit",
+    "score": 84.0
+  }, {
+    "name": "Bike",
+    "score": 90.0
+  }]
+}, {
+  "Irving Park": [{
+    "name": "Dining & Drinking",
+    "score": 87.1099472046
+  }, {
+    "name": "Groceries",
+    "score": 74.2940368652
+  }, {
+    "name": "Shopping",
+    "score": 96.7091674805
+  }, {
+    "name": "Errands",
+    "score": 94.7736816406
+  }, {
+    "name": "Parks",
+    "score": 99.3127746582
+  }, {
+    "name": "Schools",
+    "score": 100.0
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 99.5499725342
+  }, {
+    "name": "Walk",
+    "score": 90.0
+  }, {
+    "name": "Transit",
+    "score": 70.0
+  }, {
+    "name": "Bike",
+    "score": 70.0
+  }]
+}, {
+  "South Commons": [{
+    "name": "Dining & Drinking",
+    "score": 43.7105178833
+  }, {
+    "name": "Groceries",
+    "score": 55.7900390625
+  }, {
+    "name": "Shopping",
+    "score": 61.2909240723
+  }, {
+    "name": "Errands",
+    "score": 71.1814727783
+  }, {
+    "name": "Parks",
+    "score": 97.9988708496
+  }, {
+    "name": "Schools",
+    "score": 98.0127487183
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 79.2666091919
+  }, {
+    "name": "Walk",
+    "score": 62.0
+  }, {
+    "name": "Transit",
+    "score": 67.0
+  }, {
+    "name": "Bike",
+    "score": 75.0
+  }]
+}, {
+  "West De Paul": [{
+    "name": "Dining & Drinking",
+    "score": 92.2836685181
+  }, {
+    "name": "Groceries",
+    "score": 57.7210769653
+  }, {
+    "name": "Shopping",
+    "score": 93.5348358154
+  }, {
+    "name": "Errands",
+    "score": 94.9722671509
+  }, {
+    "name": "Parks",
+    "score": 99.871925354
+  }, {
+    "name": "Schools",
+    "score": 92.301361084
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 92.4737854004
+  }, {
+    "name": "Walk",
+    "score": 86.0
+  }, {
+    "name": "Transit",
+    "score": 69.0
+  }, {
+    "name": "Bike",
+    "score": 89.0
+  }]
+}, {
+  "Avalon Park": [{
+    "name": "Dining & Drinking",
+    "score": 65.7002944946
+  }, {
+    "name": "Groceries",
+    "score": 76.0569229126
+  }, {
+    "name": "Shopping",
+    "score": 76.1586303711
+  }, {
+    "name": "Errands",
+    "score": 89.4183959961
+  }, {
+    "name": "Parks",
+    "score": 90.1125564575
+  }, {
+    "name": "Schools",
+    "score": 97.204208374
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 70.2520294189
+  }, {
+    "name": "Walk",
+    "score": 77.0
+  }, {
+    "name": "Transit",
+    "score": 63.0
+  }, {
+    "name": "Bike",
+    "score": 60.0
+  }]
+}, {
+  "North Mayfair": [{
+    "name": "Dining & Drinking",
+    "score": 77.9243469238
+  }, {
+    "name": "Groceries",
+    "score": 59.8755760193
+  }, {
+    "name": "Shopping",
+    "score": 81.2993545532
+  }, {
+    "name": "Errands",
+    "score": 83.7484207153
+  }, {
+    "name": "Parks",
+    "score": 99.0372772217
+  }, {
+    "name": "Schools",
+    "score": 82.0813903809
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 91.3880767822
+  }, {
+    "name": "Walk",
+    "score": 77.0
+  }, {
+    "name": "Transit",
+    "score": 60.0
+  }, {
+    "name": "Bike",
+    "score": 69.0
+  }]
+}, {
+  "Edgewater Glen": [{
+    "name": "Dining & Drinking",
+    "score": 86.2973175049
+  }, {
+    "name": "Groceries",
+    "score": 81.8805465698
+  }, {
+    "name": "Shopping",
+    "score": 90.8057403564
+  }, {
+    "name": "Errands",
+    "score": 88.6396942139
+  }, {
+    "name": "Parks",
+    "score": 96.0203170776
+  }, {
+    "name": "Schools",
+    "score": 94.9767684937
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 95.4419403076
+  }, {
+    "name": "Walk",
+    "score": 88.0
+  }, {
+    "name": "Transit",
+    "score": 73.0
+  }, {
+    "name": "Bike",
+    "score": 93.0
+  }]
+}, {
+  "Humboldt Park": [{
+    "name": "Dining & Drinking",
+    "score": 66.6101150513
+  }, {
+    "name": "Groceries",
+    "score": 83.2365188599
+  }, {
+    "name": "Shopping",
+    "score": 78.154083252
+  }, {
+    "name": "Errands",
+    "score": 75.7826919556
+  }, {
+    "name": "Parks",
+    "score": 91.2966537476
+  }, {
+    "name": "Schools",
+    "score": 81.7181015015
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 49.216342926
+  }, {
+    "name": "Walk",
+    "score": 74.0
+  }, {
+    "name": "Transit",
+    "score": 67.0
+  }, {
+    "name": "Bike",
+    "score": 87.0
+  }]
+}, {
+  "West Chatham": [{
+    "name": "Dining & Drinking",
+    "score": 74.5606613159
+  }, {
+    "name": "Groceries",
+    "score": 24.8152046204
+  }, {
+    "name": "Shopping",
+    "score": 79.9733886719
+  }, {
+    "name": "Errands",
+    "score": 85.3220367432
+  }, {
+    "name": "Parks",
+    "score": 92.4069595337
+  }, {
+    "name": "Schools",
+    "score": 88.0158538818
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 40.8208351135
+  }, {
+    "name": "Walk",
+    "score": 67.0
+  }, {
+    "name": "Transit",
+    "score": 65.0
+  }, {
+    "name": "Bike",
+    "score": 53.0
+  }]
+}, {
+  "East Garfield Park": [{
+    "name": "Dining & Drinking",
+    "score": 70.6947097778
+  }, {
+    "name": "Groceries",
+    "score": 99.3650436401
+  }, {
+    "name": "Shopping",
+    "score": 69.0236434937
+  }, {
+    "name": "Errands",
+    "score": 68.8705062866
+  }, {
+    "name": "Parks",
+    "score": 88.3890228271
+  }, {
+    "name": "Schools",
+    "score": 94.1556167603
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 7.19531822205
+  }, {
+    "name": "Walk",
+    "score": 73.0
+  }, {
+    "name": "Transit",
+    "score": 78.0
+  }, {
+    "name": "Bike",
+    "score": 98.0
+  }]
+}, {
+  "West Morgan Park": [{
+    "name": "Dining & Drinking",
+    "score": 74.0106887817
+  }, {
+    "name": "Groceries",
+    "score": 79.4016189575
+  }, {
+    "name": "Shopping",
+    "score": 76.7081069946
+  }, {
+    "name": "Errands",
+    "score": 86.5652999878
+  }, {
+    "name": "Parks",
+    "score": 94.1130142212
+  }, {
+    "name": "Schools",
+    "score": 73.8739089966
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 75.522064209
+  }, {
+    "name": "Walk",
+    "score": 78.0
+  }, {
+    "name": "Transit",
+    "score": 40.0
+  }, {
+    "name": "Bike",
+    "score": 54.0
+  }]
+}, {
+  "Wolf Lake": [{
+    "name": "Dining & Drinking",
+    "score": 0
+  }, {
+    "name": "Groceries",
+    "score": 0
+  }, {
+    "name": "Shopping",
+    "score": 0
+  }, {
+    "name": "Errands",
+    "score": 0
+  }, {
+    "name": "Parks",
+    "score": 70.0
+  }, {
+    "name": "Schools",
+    "score": 0
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 0
+  }, {
+    "name": "Walk",
+    "score": 3.0
+  }, {
+    "name": "Transit",
+    "score": 0
+  }, {
+    "name": "Bike",
+    "score": 30.0
+  }]
+}, {
+  "Homan Square": [{
+    "name": "Dining & Drinking",
+    "score": 64.8251113892
+  }, {
+    "name": "Groceries",
+    "score": 82.9703903198
+  }, {
+    "name": "Shopping",
+    "score": 75.8209457397
+  }, {
+    "name": "Errands",
+    "score": 81.1346817017
+  }, {
+    "name": "Parks",
+    "score": 92.4449386597
+  }, {
+    "name": "Schools",
+    "score": 97.4119491577
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 81.890411377
+  }, {
+    "name": "Walk",
+    "score": 77.0
+  }, {
+    "name": "Transit",
+    "score": 68.0
+  }, {
+    "name": "Bike",
+    "score": 67.0
+  }]
+}, {
+  "The Villa": [{
+    "name": "Dining & Drinking",
+    "score": 83.8506622314
+  }, {
+    "name": "Groceries",
+    "score": 80.5296096802
+  }, {
+    "name": "Shopping",
+    "score": 85.4708404541
+  }, {
+    "name": "Errands",
+    "score": 89.2475738525
+  }, {
+    "name": "Parks",
+    "score": 88.1901168823
+  }, {
+    "name": "Schools",
+    "score": 89.7046508789
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 52.5280265808
+  }, {
+    "name": "Walk",
+    "score": 83.0
+  }, {
+    "name": "Transit",
+    "score": 72.0
+  }, {
+    "name": "Bike",
+    "score": 62.0
+  }]
+}, {
+  "Kelvin Park": [{
+    "name": "Dining & Drinking",
+    "score": 75.4113998413
+  }, {
+    "name": "Groceries",
+    "score": 73.328704834
+  }, {
+    "name": "Shopping",
+    "score": 74.7397537231
+  }, {
+    "name": "Errands",
+    "score": 71.5894241333
+  }, {
+    "name": "Parks",
+    "score": 95.8681869507
+  }, {
+    "name": "Schools",
+    "score": 76.9207382202
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 7.21996498108
+  }, {
+    "name": "Walk",
+    "score": 71.0
+  }, {
+    "name": "Transit",
+    "score": 60.0
+  }, {
+    "name": "Bike",
+    "score": 76.0
+  }]
+}, {
+  "Margate Park": [{
+    "name": "Dining & Drinking",
+    "score": 95.2558059692
+  }, {
+    "name": "Groceries",
+    "score": 100.0
+  }, {
+    "name": "Shopping",
+    "score": 96.2556762695
+  }, {
+    "name": "Errands",
+    "score": 97.2603302002
+  }, {
+    "name": "Parks",
+    "score": 99.7405166626
+  }, {
+    "name": "Schools",
+    "score": 93.6410751343
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 99.6540374756
+  }, {
+    "name": "Walk",
+    "score": 95.0
+  }, {
+    "name": "Transit",
+    "score": 79.0
+  }, {
+    "name": "Bike",
+    "score": 94.0
+  }]
+}, {
+  "Mount Greenwood": [{
+    "name": "Dining & Drinking",
+    "score": 74.9768981934
+  }, {
+    "name": "Groceries",
+    "score": 42.6543769836
+  }, {
+    "name": "Shopping",
+    "score": 92.2085418701
+  }, {
+    "name": "Errands",
+    "score": 90.8441467285
+  }, {
+    "name": "Parks",
+    "score": 79.9593200684
+  }, {
+    "name": "Schools",
+    "score": 87.6255722046
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 98.8063049316
+  }, {
+    "name": "Walk",
+    "score": 75.0
+  }, {
+    "name": "Transit",
+    "score": 40.0
+  }, {
+    "name": "Bike",
+    "score": 66.0
+  }]
+}, {
+  "Ford City": [{
+    "name": "Dining & Drinking",
+    "score": 49.7543869019
+  }, {
+    "name": "Groceries",
+    "score": 16.2173881531
+  }, {
+    "name": "Shopping",
+    "score": 92.8317337036
+  }, {
+    "name": "Errands",
+    "score": 65.5512619019
+  }, {
+    "name": "Parks",
+    "score": 64.9538726807
+  }, {
+    "name": "Schools",
+    "score": 24.8024291992
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 94.9429244995
+  }, {
+    "name": "Walk",
+    "score": 48.0
+  }, {
+    "name": "Transit",
+    "score": 62.0
+  }, {
+    "name": "Bike",
+    "score": 50.0
+  }]
+}, {
+  "Old Edgebrook": [{
+    "name": "Dining & Drinking",
+    "score": 66.2164077759
+  }, {
+    "name": "Groceries",
+    "score": 60.934753418
+  }, {
+    "name": "Shopping",
+    "score": 86.6379165649
+  }, {
+    "name": "Errands",
+    "score": 86.5214080811
+  }, {
+    "name": "Parks",
+    "score": 100.0
+  }, {
+    "name": "Schools",
+    "score": 37.5389328003
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 55.8516349792
+  }, {
+    "name": "Walk",
+    "score": 67.0
+  }, {
+    "name": "Transit",
+    "score": 44.0
+  }, {
+    "name": "Bike",
+    "score": 70.0
+  }]
+}, {
+  "Longwood Manor": [{
+    "name": "Dining & Drinking",
+    "score": 65.7503128052
+  }, {
+    "name": "Groceries",
+    "score": 8.12188148499
+  }, {
+    "name": "Shopping",
+    "score": 72.5098114014
+  }, {
+    "name": "Errands",
+    "score": 77.8821640015
+  }, {
+    "name": "Parks",
+    "score": 94.0174179077
+  }, {
+    "name": "Schools",
+    "score": 89.4025115967
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 67.2322235107
+  }, {
+    "name": "Walk",
+    "score": 61.0
+  }, {
+    "name": "Transit",
+    "score": 64.0
+  }, {
+    "name": "Bike",
+    "score": 49.0
+  }]
+}, {
+  "North Center": [{
+    "name": "Dining & Drinking",
+    "score": 86.7141418457
+  }, {
+    "name": "Groceries",
+    "score": 74.729850769
+  }, {
+    "name": "Shopping",
+    "score": 93.5298538208
+  }, {
+    "name": "Errands",
+    "score": 92.3122787476
+  }, {
+    "name": "Parks",
+    "score": 73.5111236572
+  }, {
+    "name": "Schools",
+    "score": 96.3686218262
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 66.953994751
+  }, {
+    "name": "Walk",
+    "score": 83.0
+  }, {
+    "name": "Transit",
+    "score": 66.0
+  }, {
+    "name": "Bike",
+    "score": 88.0
+  }]
+}, {
+  "Golden Gate": [{
+    "name": "Dining & Drinking",
+    "score": 11.5238580704
+  }, {
+    "name": "Groceries",
+    "score": 75.8032913208
+  }, {
+    "name": "Shopping",
+    "score": 0
+  }, {
+    "name": "Errands",
+    "score": 0
+  }, {
+    "name": "Parks",
+    "score": 88.3237380981
+  }, {
+    "name": "Schools",
+    "score": 95.7487106323
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 0
+  }, {
+    "name": "Walk",
+    "score": 28.0
+  }, {
+    "name": "Transit",
+    "score": 42.0
+  }, {
+    "name": "Bike",
+    "score": 35.0
+  }]
+}, {
+  "Winneconna Parkway": [{
+    "name": "Dining & Drinking",
+    "score": 68.4305038452
+  }, {
+    "name": "Groceries",
+    "score": 57.5982322693
+  }, {
+    "name": "Shopping",
+    "score": 77.1694641113
+  }, {
+    "name": "Errands",
+    "score": 76.9226531982
+  }, {
+    "name": "Parks",
+    "score": 92.6656494141
+  }, {
+    "name": "Schools",
+    "score": 87.6128311157
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 52.8167572021
+  }, {
+    "name": "Walk",
+    "score": 70.0
+  }, {
+    "name": "Transit",
+    "score": 68.0
+  }, {
+    "name": "Bike",
+    "score": 64.0
+  }]
+}, {
+  "Washington Heights": [{
+    "name": "Dining & Drinking",
+    "score": 62.1992797852
+  }, {
+    "name": "Groceries",
+    "score": 60.8842010498
+  }, {
+    "name": "Shopping",
+    "score": 49.1914253235
+  }, {
+    "name": "Errands",
+    "score": 33.1501655579
+  }, {
+    "name": "Parks",
+    "score": 93.0501403809
+  }, {
+    "name": "Schools",
+    "score": 99.5164413452
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 51.7004165649
+  }, {
+    "name": "Walk",
+    "score": 59.0
+  }, {
+    "name": "Transit",
+    "score": 63.0
+  }, {
+    "name": "Bike",
+    "score": 67.0
+  }]
+}, {
+  "Avondale": [{
+    "name": "Dining & Drinking",
+    "score": 86.8363647461
+  }, {
+    "name": "Groceries",
+    "score": 84.9154281616
+  }, {
+    "name": "Shopping",
+    "score": 91.5747451782
+  }, {
+    "name": "Errands",
+    "score": 91.1527099609
+  }, {
+    "name": "Parks",
+    "score": 100.0
+  }, {
+    "name": "Schools",
+    "score": 99.4706573486
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 95.336151123
+  }, {
+    "name": "Walk",
+    "score": 89.0
+  }, {
+    "name": "Transit",
+    "score": 68.0
+  }, {
+    "name": "Bike",
+    "score": 86.0
+  }]
+}, {
+  "Oakland": [{
+    "name": "Dining & Drinking",
+    "score": 36.2229232788
+  }, {
+    "name": "Groceries",
+    "score": 44.6937141418
+  }, {
+    "name": "Shopping",
+    "score": 51.4456863403
+  }, {
+    "name": "Errands",
+    "score": 71.0713348389
+  }, {
+    "name": "Parks",
+    "score": 91.6659469604
+  }, {
+    "name": "Schools",
+    "score": 77.597869873
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 61.320110321
+  }, {
+    "name": "Walk",
+    "score": 53.0
+  }, {
+    "name": "Transit",
+    "score": 49.0
+  }, {
+    "name": "Bike",
+    "score": 75.0
+  }]
+}, {
+  "Lake Meadows": [{
+    "name": "Dining & Drinking",
+    "score": 72.8092956543
+  }, {
+    "name": "Groceries",
+    "score": 96.6741333008
+  }, {
+    "name": "Shopping",
+    "score": 83.0501327515
+  }, {
+    "name": "Errands",
+    "score": 87.4587097168
+  }, {
+    "name": "Parks",
+    "score": 100.0
+  }, {
+    "name": "Schools",
+    "score": 97.3748550415
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 87.9816665649
+  }, {
+    "name": "Walk",
+    "score": 83.0
+  }, {
+    "name": "Transit",
+    "score": 63.0
+  }, {
+    "name": "Bike",
+    "score": 76.0
+  }]
+}, {
+  "Uptown": [{
+    "name": "Dining & Drinking",
+    "score": 95.2558059692
+  }, {
+    "name": "Groceries",
+    "score": 100.0
+  }, {
+    "name": "Shopping",
+    "score": 96.2556762695
+  }, {
+    "name": "Errands",
+    "score": 97.2603302002
+  }, {
+    "name": "Parks",
+    "score": 99.7405166626
+  }, {
+    "name": "Schools",
+    "score": 93.6410751343
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 99.6540374756
+  }, {
+    "name": "Walk",
+    "score": 95.0
+  }, {
+    "name": "Transit",
+    "score": 79.0
+  }, {
+    "name": "Bike",
+    "score": 94.0
+  }]
+}, {
+  "Riverdale": [{
+    "name": "Dining & Drinking",
+    "score": 17.7893810272
+  }, {
+    "name": "Groceries",
+    "score": 79.9223022461
+  }, {
+    "name": "Shopping",
+    "score": 0
+  }, {
+    "name": "Errands",
+    "score": 27.5078430176
+  }, {
+    "name": "Parks",
+    "score": 77.5219573975
+  }, {
+    "name": "Schools",
+    "score": 74.2324676514
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 42.8933944702
+  }, {
+    "name": "Walk",
+    "score": 35.0
+  }, {
+    "name": "Transit",
+    "score": 40.0
+  }, {
+    "name": "Bike",
+    "score": 33.0
+  }]
+}, {
+  "Groveland Park": [{
+    "name": "Dining & Drinking",
+    "score": 56.2513580322
+  }, {
+    "name": "Groceries",
+    "score": 75.9984893799
+  }, {
+    "name": "Shopping",
+    "score": 66.4619064331
+  }, {
+    "name": "Errands",
+    "score": 74.6962738037
+  }, {
+    "name": "Parks",
+    "score": 100.0
+  }, {
+    "name": "Schools",
+    "score": 95.3132858276
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 90.3231277466
+  }, {
+    "name": "Walk",
+    "score": 70.0
+  }, {
+    "name": "Transit",
+    "score": 56.0
+  }, {
+    "name": "Bike",
+    "score": 82.0
+  }]
+}, {
+  "Bridgeport": [{
+    "name": "Dining & Drinking",
+    "score": 88.6004486084
+  }, {
+    "name": "Groceries",
+    "score": 98.5753097534
+  }, {
+    "name": "Shopping",
+    "score": 85.5331344604
+  }, {
+    "name": "Errands",
+    "score": 88.2887268066
+  }, {
+    "name": "Parks",
+    "score": 99.1195678711
+  }, {
+    "name": "Schools",
+    "score": 95.8219070435
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 73.306427002
+  }, {
+    "name": "Walk",
+    "score": 89.0
+  }, {
+    "name": "Transit",
+    "score": 57.0
+  }, {
+    "name": "Bike",
+    "score": 92.0
+  }]
+}, {
+  "Kennedy Park": [{
+    "name": "Dining & Drinking",
+    "score": 61.7727775574
+  }, {
+    "name": "Groceries",
+    "score": 56.6709251404
+  }, {
+    "name": "Shopping",
+    "score": 64.4225463867
+  }, {
+    "name": "Errands",
+    "score": 81.2270431519
+  }, {
+    "name": "Parks",
+    "score": 87.4115753174
+  }, {
+    "name": "Schools",
+    "score": 82.3111190796
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 45.7640228271
+  }, {
+    "name": "Walk",
+    "score": 65.0
+  }, {
+    "name": "Transit",
+    "score": 42.0
+  }, {
+    "name": "Bike",
+    "score": 54.0
+  }]
+}, {
+  "Sauganash": [{
+    "name": "Dining & Drinking",
+    "score": 54.560710907
+  }, {
+    "name": "Groceries",
+    "score": 70.5253448486
+  }, {
+    "name": "Shopping",
+    "score": 54.382774353
+  }, {
+    "name": "Errands",
+    "score": 80.0209274292
+  }, {
+    "name": "Parks",
+    "score": 90.5310668945
+  }, {
+    "name": "Schools",
+    "score": 81.4561080933
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 3.85069942474
+  }, {
+    "name": "Walk",
+    "score": 62.0
+  }, {
+    "name": "Transit",
+    "score": 40.0
+  }, {
+    "name": "Bike",
+    "score": 67.0
+  }]
+}, {
+  "New Eastside": [{
+    "name": "Dining & Drinking",
+    "score": 96.3192977905
+  }, {
+    "name": "Groceries",
+    "score": 100.0
+  }, {
+    "name": "Shopping",
+    "score": 95.3659591675
+  }, {
+    "name": "Errands",
+    "score": 98.5257873535
+  }, {
+    "name": "Parks",
+    "score": 100.0
+  }, {
+    "name": "Schools",
+    "score": 71.3504638672
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 97.9789657593
+  }, {
+    "name": "Walk",
+    "score": 96.0
+  }, {
+    "name": "Transit",
+    "score": 100.0
+  }, {
+    "name": "Bike",
+    "score": 80.0
+  }]
+}, {
+  "Buena Park": [{
+    "name": "Dining & Drinking",
+    "score": 90.8625106812
+  }, {
+    "name": "Groceries",
+    "score": 98.2758102417
+  }, {
+    "name": "Shopping",
+    "score": 91.9936828613
+  }, {
+    "name": "Errands",
+    "score": 96.0205383301
+  }, {
+    "name": "Parks",
+    "score": 100.0
+  }, {
+    "name": "Schools",
+    "score": 97.9095687866
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 100.0
+  }, {
+    "name": "Walk",
+    "score": 93.0
+  }, {
+    "name": "Transit",
+    "score": 82.0
+  }, {
+    "name": "Bike",
+    "score": 94.0
+  }]
+}, {
+  "Forest Glen": [{
+    "name": "Dining & Drinking",
+    "score": 72.5628051758
+  }, {
+    "name": "Groceries",
+    "score": 75.2668838501
+  }, {
+    "name": "Shopping",
+    "score": 69.3022079468
+  }, {
+    "name": "Errands",
+    "score": 74.1934738159
+  }, {
+    "name": "Parks",
+    "score": 100.0
+  }, {
+    "name": "Schools",
+    "score": 61.7835998535
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 71.8479690552
+  }, {
+    "name": "Walk",
+    "score": 72.0
+  }, {
+    "name": "Transit",
+    "score": 44.0
+  }, {
+    "name": "Bike",
+    "score": 75.0
+  }]
+}, {
+  "Union Ridge": [{
+    "name": "Dining & Drinking",
+    "score": 70.3272857666
+  }, {
+    "name": "Groceries",
+    "score": 12.991235733
+  }, {
+    "name": "Shopping",
+    "score": 82.1994781494
+  }, {
+    "name": "Errands",
+    "score": 85.0626296997
+  }, {
+    "name": "Parks",
+    "score": 54.3374977112
+  }, {
+    "name": "Schools",
+    "score": 81.7612838745
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 15.3707952499
+  }, {
+    "name": "Walk",
+    "score": 60.0
+  }, {
+    "name": "Transit",
+    "score": 59.0
+  }, {
+    "name": "Bike",
+    "score": 64.0
+  }]
+}, {
+  "East Side": [{
+    "name": "Dining & Drinking",
+    "score": 71.771736145
+  }, {
+    "name": "Groceries",
+    "score": 95.4971237183
+  }, {
+    "name": "Shopping",
+    "score": 75.5215606689
+  }, {
+    "name": "Errands",
+    "score": 85.568611145
+  }, {
+    "name": "Parks",
+    "score": 39.5626564026
+  }, {
+    "name": "Schools",
+    "score": 95.8600311279
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 60.4891433716
+  }, {
+    "name": "Walk",
+    "score": 76.0
+  }, {
+    "name": "Transit",
+    "score": 39.0
+  }, {
+    "name": "Bike",
+    "score": 72.0
+  }]
+}, {
+  "Englewood": [{
+    "name": "Dining & Drinking",
+    "score": 68.9573669434
+  }, {
+    "name": "Groceries",
+    "score": 88.4897384644
+  }, {
+    "name": "Shopping",
+    "score": 76.6888275146
+  }, {
+    "name": "Errands",
+    "score": 76.1036300659
+  }, {
+    "name": "Parks",
+    "score": 51.3748168945
+  }, {
+    "name": "Schools",
+    "score": 89.9384765625
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 57.491771698
+  }, {
+    "name": "Walk",
+    "score": 74.0
+  }, {
+    "name": "Transit",
+    "score": 74.0
+  }, {
+    "name": "Bike",
+    "score": 65.0
+  }]
+}, {
+  "Norwood Park West": [{
+    "name": "Dining & Drinking",
+    "score": 53.4235687256
+  }, {
+    "name": "Groceries",
+    "score": 3.61846351624
+  }, {
+    "name": "Shopping",
+    "score": 42.2409515381
+  }, {
+    "name": "Errands",
+    "score": 70.0623931885
+  }, {
+    "name": "Parks",
+    "score": 89.3416290283
+  }, {
+    "name": "Schools",
+    "score": 94.2087173462
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 32.332824707
+  }, {
+    "name": "Walk",
+    "score": 48.0
+  }, {
+    "name": "Transit",
+    "score": 50.0
+  }, {
+    "name": "Bike",
+    "score": 54.0
+  }]
+}, {
+  "Fifth City": [{
+    "name": "Dining & Drinking",
+    "score": 53.6741027832
+  }, {
+    "name": "Groceries",
+    "score": 89.7955932617
+  }, {
+    "name": "Shopping",
+    "score": 65.6695327759
+  }, {
+    "name": "Errands",
+    "score": 67.991859436
+  }, {
+    "name": "Parks",
+    "score": 98.9622650146
+  }, {
+    "name": "Schools",
+    "score": 96.5403747559
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 45.040184021
+  }, {
+    "name": "Walk",
+    "score": 69.0
+  }, {
+    "name": "Transit",
+    "score": 77.0
+  }, {
+    "name": "Bike",
+    "score": 80.0
+  }]
+}, {
+  "Woodlawn": [{
+    "name": "Dining & Drinking",
+    "score": 58.8846511841
+  }, {
+    "name": "Groceries",
+    "score": 35.4685020447
+  }, {
+    "name": "Shopping",
+    "score": 62.01902771
+  }, {
+    "name": "Errands",
+    "score": 69.7824172974
+  }, {
+    "name": "Parks",
+    "score": 76.308883667
+  }, {
+    "name": "Schools",
+    "score": 95.7597427368
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 79.1629714966
+  }, {
+    "name": "Walk",
+    "score": 60.0
+  }, {
+    "name": "Transit",
+    "score": 74.0
+  }, {
+    "name": "Bike",
+    "score": 70.0
+  }]
+}, {
+  "West Beverly": [{
+    "name": "Dining & Drinking",
+    "score": 73.4018783569
+  }, {
+    "name": "Groceries",
+    "score": 24.5747375488
+  }, {
+    "name": "Shopping",
+    "score": 79.3646240234
+  }, {
+    "name": "Errands",
+    "score": 78.4645462036
+  }, {
+    "name": "Parks",
+    "score": 96.7114334106
+  }, {
+    "name": "Schools",
+    "score": 90.1770019531
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 46.7285842896
+  }, {
+    "name": "Walk",
+    "score": 65.0
+  }, {
+    "name": "Transit",
+    "score": 41.0
+  }, {
+    "name": "Bike",
+    "score": 54.0
+  }]
+}, {
+  "Beverly View": [{
+    "name": "Dining & Drinking",
+    "score": 59.0024642944
+  }, {
+    "name": "Groceries",
+    "score": 25.0484218597
+  }, {
+    "name": "Shopping",
+    "score": 69.7950057983
+  }, {
+    "name": "Errands",
+    "score": 79.6754150391
+  }, {
+    "name": "Parks",
+    "score": 57.7956962585
+  }, {
+    "name": "Schools",
+    "score": 66.0460586548
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 62.7374954224
+  }, {
+    "name": "Walk",
+    "score": 57.0
+  }, {
+    "name": "Transit",
+    "score": 60.0
+  }, {
+    "name": "Bike",
+    "score": 59.0
+  }]
+}, {
+  "Ranch Triangle": [{
+    "name": "Dining & Drinking",
+    "score": 95.7017440796
+  }, {
+    "name": "Groceries",
+    "score": 93.6202316284
+  }, {
+    "name": "Shopping",
+    "score": 99.7685241699
+  }, {
+    "name": "Errands",
+    "score": 98.0219497681
+  }, {
+    "name": "Parks",
+    "score": 100.0
+  }, {
+    "name": "Schools",
+    "score": 95.4034500122
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 92.784576416
+  }, {
+    "name": "Walk",
+    "score": 95.0
+  }, {
+    "name": "Transit",
+    "score": 81.0
+  }, {
+    "name": "Bike",
+    "score": 86.0
+  }]
+}, {
+  "Schorsch Forest View": [{
+    "name": "Dining & Drinking",
+    "score": 66.8024673462
+  }, {
+    "name": "Groceries",
+    "score": 51.3687553406
+  }, {
+    "name": "Shopping",
+    "score": 68.7084121704
+  }, {
+    "name": "Errands",
+    "score": 77.3080368042
+  }, {
+    "name": "Parks",
+    "score": 0
+  }, {
+    "name": "Schools",
+    "score": 33.3111572266
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 26.3239459991
+  }, {
+    "name": "Walk",
+    "score": 56.0
+  }, {
+    "name": "Transit",
+    "score": 32.0
+  }, {
+    "name": "Bike",
+    "score": 43.0
+  }]
+}, {
+  "Lakewood - Balmoral": [{
+    "name": "Dining & Drinking",
+    "score": 91.5947494507
+  }, {
+    "name": "Groceries",
+    "score": 89.5643234253
+  }, {
+    "name": "Shopping",
+    "score": 93.3854675293
+  }, {
+    "name": "Errands",
+    "score": 96.0544128418
+  }, {
+    "name": "Parks",
+    "score": 98.8411865234
+  }, {
+    "name": "Schools",
+    "score": 93.2704772949
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 97.0242385864
+  }, {
+    "name": "Walk",
+    "score": 93.0
+  }, {
+    "name": "Transit",
+    "score": 77.0
+  }, {
+    "name": "Bike",
+    "score": 72.0
+  }]
+}, {
+  "Jackson Park Highlands": [{
+    "name": "Dining & Drinking",
+    "score": 70.2649002075
+  }, {
+    "name": "Groceries",
+    "score": 0
+  }, {
+    "name": "Shopping",
+    "score": 79.6388626099
+  }, {
+    "name": "Errands",
+    "score": 86.0284042358
+  }, {
+    "name": "Parks",
+    "score": 81.9661026001
+  }, {
+    "name": "Schools",
+    "score": 92.9654464722
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 86.4580459595
+  }, {
+    "name": "Walk",
+    "score": 64.0
+  }, {
+    "name": "Transit",
+    "score": 70.0
+  }, {
+    "name": "Bike",
+    "score": 59.0
+  }]
+}, {
+  "Hyde Park": [{
+    "name": "Dining & Drinking",
+    "score": 90.33253479
+  }, {
+    "name": "Groceries",
+    "score": 96.4054794312
+  }, {
+    "name": "Shopping",
+    "score": 88.7570648193
+  }, {
+    "name": "Errands",
+    "score": 90.5587005615
+  }, {
+    "name": "Parks",
+    "score": 100.0
+  }, {
+    "name": "Schools",
+    "score": 95.8723907471
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 97.7350234985
+  }, {
+    "name": "Walk",
+    "score": 91.0
+  }, {
+    "name": "Transit",
+    "score": 66.0
+  }, {
+    "name": "Bike",
+    "score": 97.0
+  }]
+}, {
+  "East Beverly": [{
+    "name": "Dining & Drinking",
+    "score": 58.7687110901
+  }, {
+    "name": "Groceries",
+    "score": 4.07719182968
+  }, {
+    "name": "Shopping",
+    "score": 81.8151855469
+  }, {
+    "name": "Errands",
+    "score": 76.367980957
+  }, {
+    "name": "Parks",
+    "score": 96.9010238647
+  }, {
+    "name": "Schools",
+    "score": 83.9299316406
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 75.281867981
+  }, {
+    "name": "Walk",
+    "score": 58.0
+  }, {
+    "name": "Transit",
+    "score": 53.0
+  }, {
+    "name": "Bike",
+    "score": 66.0
+  }]
+}, {
+  "Montclare": [{
+    "name": "Dining & Drinking",
+    "score": 73.6398544312
+  }, {
+    "name": "Groceries",
+    "score": 91.0338058472
+  }, {
+    "name": "Shopping",
+    "score": 59.1351737976
+  }, {
+    "name": "Errands",
+    "score": 84.1703338623
+  }, {
+    "name": "Parks",
+    "score": 93.8420257568
+  }, {
+    "name": "Schools",
+    "score": 92.3040237427
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 33.5523338318
+  }, {
+    "name": "Walk",
+    "score": 76.0
+  }, {
+    "name": "Transit",
+    "score": 60.0
+  }, {
+    "name": "Bike",
+    "score": 68.0
+  }]
+}, {
+  "Cragin": [{
+    "name": "Dining & Drinking",
+    "score": 90.0894317627
+  }, {
+    "name": "Groceries",
+    "score": 98.9112319946
+  }, {
+    "name": "Shopping",
+    "score": 85.8735656738
+  }, {
+    "name": "Errands",
+    "score": 83.3762512207
+  }, {
+    "name": "Parks",
+    "score": 68.0298538208
+  }, {
+    "name": "Schools",
+    "score": 78.7770843506
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 6.30666399002
+  }, {
+    "name": "Walk",
+    "score": 82.0
+  }, {
+    "name": "Transit",
+    "score": 58.0
+  }, {
+    "name": "Bike",
+    "score": 68.0
+  }]
+}, {
+  "Bowmanville": [{
+    "name": "Dining & Drinking",
+    "score": 82.9275283813
+  }, {
+    "name": "Groceries",
+    "score": 97.3545837402
+  }, {
+    "name": "Shopping",
+    "score": 92.344039917
+  }, {
+    "name": "Errands",
+    "score": 91.5208740234
+  }, {
+    "name": "Parks",
+    "score": 92.2367248535
+  }, {
+    "name": "Schools",
+    "score": 96.9554977417
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 100.0
+  }, {
+    "name": "Walk",
+    "score": 90.0
+  }, {
+    "name": "Transit",
+    "score": 62.0
+  }, {
+    "name": "Bike",
+    "score": 76.0
+  }]
+}, {
+  "Cabrini Green": [{
+    "name": "Dining & Drinking",
+    "score": 87.794342041
+  }, {
+    "name": "Groceries",
+    "score": 80.4828186035
+  }, {
+    "name": "Shopping",
+    "score": 90.6731796265
+  }, {
+    "name": "Errands",
+    "score": 93.3127975464
+  }, {
+    "name": "Parks",
+    "score": 100.0
+  }, {
+    "name": "Schools",
+    "score": 92.7605743408
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 87.1227874756
+  }, {
+    "name": "Walk",
+    "score": 88.0
+  }, {
+    "name": "Transit",
+    "score": 83.0
+  }, {
+    "name": "Bike",
+    "score": 79.0
+  }]
+}, {
+  "Gresham": [{
+    "name": "Dining & Drinking",
+    "score": 71.7826766968
+  }, {
+    "name": "Groceries",
+    "score": 56.7005729675
+  }, {
+    "name": "Shopping",
+    "score": 79.3767776489
+  }, {
+    "name": "Errands",
+    "score": 87.7118835449
+  }, {
+    "name": "Parks",
+    "score": 90.1112060547
+  }, {
+    "name": "Schools",
+    "score": 93.6957168579
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 49.7219314575
+  }, {
+    "name": "Walk",
+    "score": 73.0
+  }, {
+    "name": "Transit",
+    "score": 60.0
+  }, {
+    "name": "Bike",
+    "score": 63.0
+  }]
+}, {
+  "Vittum Park": [{
+    "name": "Dining & Drinking",
+    "score": 64.9446411133
+  }, {
+    "name": "Groceries",
+    "score": 7.98535442352
+  }, {
+    "name": "Shopping",
+    "score": 76.3882369995
+  }, {
+    "name": "Errands",
+    "score": 70.3112945557
+  }, {
+    "name": "Parks",
+    "score": 74.1095809937
+  }, {
+    "name": "Schools",
+    "score": 85.5416564941
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 4.81328773499
+  }, {
+    "name": "Walk",
+    "score": 55.0
+  }, {
+    "name": "Transit",
+    "score": 52.0
+  }, {
+    "name": "Bike",
+    "score": 60.0
+  }]
+}, {
+  "West Loop Gate": [{
+    "name": "Dining & Drinking",
+    "score": 99.7892227173
+  }, {
+    "name": "Groceries",
+    "score": 96.8122253418
+  }, {
+    "name": "Shopping",
+    "score": 98.5453643799
+  }, {
+    "name": "Errands",
+    "score": 99.6233978271
+  }, {
+    "name": "Parks",
+    "score": 98.4679107666
+  }, {
+    "name": "Schools",
+    "score": 59.9723548889
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 99.2161712646
+  }, {
+    "name": "Walk",
+    "score": 96.0
+  }, {
+    "name": "Transit",
+    "score": 100.0
+  }, {
+    "name": "Bike",
+    "score": 84.0
+  }]
+}, {
+  "Parkview": [{
+    "name": "Dining & Drinking",
+    "score": 95.2370529175
+  }, {
+    "name": "Groceries",
+    "score": 90.6079940796
+  }, {
+    "name": "Shopping",
+    "score": 93.1898956299
+  }, {
+    "name": "Errands",
+    "score": 97.3655700684
+  }, {
+    "name": "Parks",
+    "score": 100.0
+  }, {
+    "name": "Schools",
+    "score": 89.0155487061
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 99.4942932129
+  }, {
+    "name": "Walk",
+    "score": 93.0
+  }, {
+    "name": "Transit",
+    "score": 76.0
+  }, {
+    "name": "Bike",
+    "score": 91.0
+  }]
+}, {
+  "Illinois Medical District": [{
+    "name": "Dining & Drinking",
+    "score": 76.113899231
+  }, {
+    "name": "Groceries",
+    "score": 79.5422821045
+  }, {
+    "name": "Shopping",
+    "score": 74.9359588623
+  }, {
+    "name": "Errands",
+    "score": 97.4174423218
+  }, {
+    "name": "Parks",
+    "score": 82.0540542603
+  }, {
+    "name": "Schools",
+    "score": 99.0372009277
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 76.6514892578
+  }, {
+    "name": "Walk",
+    "score": 71.0
+  }, {
+    "name": "Transit",
+    "score": 74.0
+  }, {
+    "name": "Bike",
+    "score": 93.0
+  }]
+}, {
+  "East Hyde Park": [{
+    "name": "Dining & Drinking",
+    "score": 88.2522735596
+  }, {
+    "name": "Groceries",
+    "score": 95.8132247925
+  }, {
+    "name": "Shopping",
+    "score": 95.7926712036
+  }, {
+    "name": "Errands",
+    "score": 95.2546005249
+  }, {
+    "name": "Parks",
+    "score": 97.674621582
+  }, {
+    "name": "Schools",
+    "score": 93.3543395996
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 88.7281112671
+  }, {
+    "name": "Walk",
+    "score": 90.0
+  }, {
+    "name": "Transit",
+    "score": 65.0
+  }, {
+    "name": "Bike",
+    "score": 98.0
+  }]
+}, {
+  "Wildwood": [{
+    "name": "Dining & Drinking",
+    "score": 56.1425895691
+  }, {
+    "name": "Groceries",
+    "score": 52.3120422363
+  }, {
+    "name": "Shopping",
+    "score": 63.3538246155
+  }, {
+    "name": "Errands",
+    "score": 78.9556045532
+  }, {
+    "name": "Parks",
+    "score": 87.3116455078
+  }, {
+    "name": "Schools",
+    "score": 91.9685668945
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 62.0176124573
+  }, {
+    "name": "Walk",
+    "score": 64.0
+  }, {
+    "name": "Transit",
+    "score": 41.0
+  }, {
+    "name": "Bike",
+    "score": 49.0
+  }]
+}, {
+  "Old Irving Park": [{
+    "name": "Dining & Drinking",
+    "score": 83.8871841431
+  }, {
+    "name": "Groceries",
+    "score": 66.9395065308
+  }, {
+    "name": "Shopping",
+    "score": 92.4316711426
+  }, {
+    "name": "Errands",
+    "score": 92.5803375244
+  }, {
+    "name": "Parks",
+    "score": 93.072479248
+  }, {
+    "name": "Schools",
+    "score": 90.5818099976
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 61.4944458008
+  }, {
+    "name": "Walk",
+    "score": 81.0
+  }, {
+    "name": "Transit",
+    "score": 72.0
+  }, {
+    "name": "Bike",
+    "score": 71.0
+  }]
+}, {
+  "University Village - Little Italy": [{
+    "name": "Dining & Drinking",
+    "score": 94.9067382812
+  }, {
+    "name": "Groceries",
+    "score": 33.3112831116
+  }, {
+    "name": "Shopping",
+    "score": 94.8770065308
+  }, {
+    "name": "Errands",
+    "score": 93.180557251
+  }, {
+    "name": "Parks",
+    "score": 99.7024765015
+  }, {
+    "name": "Schools",
+    "score": 96.3879241943
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 99.8718795776
+  }, {
+    "name": "Walk",
+    "score": 82.0
+  }, {
+    "name": "Transit",
+    "score": 80.0
+  }, {
+    "name": "Bike",
+    "score": 92.0
+  }]
+}, {
+  "Sheridan Park": [{
+    "name": "Dining & Drinking",
+    "score": 96.3185424805
+  }, {
+    "name": "Groceries",
+    "score": 96.9671707153
+  }, {
+    "name": "Shopping",
+    "score": 98.4893798828
+  }, {
+    "name": "Errands",
+    "score": 96.3784179688
+  }, {
+    "name": "Parks",
+    "score": 100.0
+  }, {
+    "name": "Schools",
+    "score": 94.4973373413
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 99.6540374756
+  }, {
+    "name": "Walk",
+    "score": 96.0
+  }, {
+    "name": "Transit",
+    "score": 79.0
+  }, {
+    "name": "Bike",
+    "score": 95.0
+  }]
+}, {
+  "East Chatham": [{
+    "name": "Dining & Drinking",
+    "score": 79.8260498047
+  }, {
+    "name": "Groceries",
+    "score": 76.4734039307
+  }, {
+    "name": "Shopping",
+    "score": 86.3815612793
+  }, {
+    "name": "Errands",
+    "score": 90.7749023438
+  }, {
+    "name": "Parks",
+    "score": 96.5694351196
+  }, {
+    "name": "Schools",
+    "score": 90.1815872192
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 74.4526596069
+  }, {
+    "name": "Walk",
+    "score": 82.0
+  }, {
+    "name": "Transit",
+    "score": 64.0
+  }, {
+    "name": "Bike",
+    "score": 55.0
+  }]
+}, {
+  "Morgan Park": [{
+    "name": "Dining & Drinking",
+    "score": 59.7941970825
+  }, {
+    "name": "Groceries",
+    "score": 77.5007324219
+  }, {
+    "name": "Shopping",
+    "score": 54.7349243164
+  }, {
+    "name": "Errands",
+    "score": 60.4349365234
+  }, {
+    "name": "Parks",
+    "score": 98.2863082886
+  }, {
+    "name": "Schools",
+    "score": 95.7504348755
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 50.2778892517
+  }, {
+    "name": "Walk",
+    "score": 67.0
+  }, {
+    "name": "Transit",
+    "score": 50.0
+  }, {
+    "name": "Bike",
+    "score": 77.0
+  }]
+}, {
+  "Princeton Park": [{
+    "name": "Dining & Drinking",
+    "score": 38.2277755737
+  }, {
+    "name": "Groceries",
+    "score": 4.21375083923
+  }, {
+    "name": "Shopping",
+    "score": 47.851474762
+  }, {
+    "name": "Errands",
+    "score": 36.8767356873
+  }, {
+    "name": "Parks",
+    "score": 82.1470413208
+  }, {
+    "name": "Schools",
+    "score": 86.4167938232
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 7.07130002975
+  }, {
+    "name": "Walk",
+    "score": 36.0
+  }, {
+    "name": "Transit",
+    "score": 80.0
+  }, {
+    "name": "Bike",
+    "score": 40.0
+  }]
+}, {
+  "Clearing (W)": [{
+    "name": "Dining & Drinking",
+    "score": 74.1217193604
+  }, {
+    "name": "Groceries",
+    "score": 38.7753143311
+  }, {
+    "name": "Shopping",
+    "score": 78.7509155273
+  }, {
+    "name": "Errands",
+    "score": 85.222076416
+  }, {
+    "name": "Parks",
+    "score": 79.5590286255
+  }, {
+    "name": "Schools",
+    "score": 95.1089096069
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 93.7625045776
+  }, {
+    "name": "Walk",
+    "score": 72.0
+  }, {
+    "name": "Transit",
+    "score": 36.0
+  }, {
+    "name": "Bike",
+    "score": 71.0
+  }]
+}, {
+  "Marycrest": [{
+    "name": "Dining & Drinking",
+    "score": 70.1583023071
+  }, {
+    "name": "Groceries",
+    "score": 76.06224823
+  }, {
+    "name": "Shopping",
+    "score": 75.2255096436
+  }, {
+    "name": "Errands",
+    "score": 71.0626678467
+  }, {
+    "name": "Parks",
+    "score": 64.6589050293
+  }, {
+    "name": "Schools",
+    "score": 72.5539321899
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 64.887878418
+  }, {
+    "name": "Walk",
+    "score": 70.0
+  }, {
+    "name": "Transit",
+    "score": 50.0
+  }, {
+    "name": "Bike",
+    "score": 53.0
+  }]
+}, {
+  "Pullman": [{
+    "name": "Dining & Drinking",
+    "score": 57.4077072144
+  }, {
+    "name": "Groceries",
+    "score": 21.9332714081
+  }, {
+    "name": "Shopping",
+    "score": 60.5430679321
+  }, {
+    "name": "Errands",
+    "score": 69.485496521
+  }, {
+    "name": "Parks",
+    "score": 90.2137908936
+  }, {
+    "name": "Schools",
+    "score": 93.6850738525
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 99.6032180786
+  }, {
+    "name": "Walk",
+    "score": 59.0
+  }, {
+    "name": "Transit",
+    "score": 59.0
+  }, {
+    "name": "Bike",
+    "score": 49.0
+  }]
+}, {
+  "Mayfair": [{
+    "name": "Dining & Drinking",
+    "score": 77.9243469238
+  }, {
+    "name": "Groceries",
+    "score": 59.8755760193
+  }, {
+    "name": "Shopping",
+    "score": 81.2993545532
+  }, {
+    "name": "Errands",
+    "score": 83.7484207153
+  }, {
+    "name": "Parks",
+    "score": 99.0372772217
+  }, {
+    "name": "Schools",
+    "score": 82.0813903809
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 91.3880767822
+  }, {
+    "name": "Walk",
+    "score": 77.0
+  }, {
+    "name": "Transit",
+    "score": 60.0
+  }, {
+    "name": "Bike",
+    "score": 69.0
+  }]
+}, {
+  "Wrigleyville": [{
+    "name": "Dining & Drinking",
+    "score": 98.9357070923
+  }, {
+    "name": "Groceries",
+    "score": 84.486000061
+  }, {
+    "name": "Shopping",
+    "score": 94.3940963745
+  }, {
+    "name": "Errands",
+    "score": 93.7514190674
+  }, {
+    "name": "Parks",
+    "score": 99.238067627
+  }, {
+    "name": "Schools",
+    "score": 86.4366912842
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 97.0508728027
+  }, {
+    "name": "Walk",
+    "score": 93.0
+  }, {
+    "name": "Transit",
+    "score": 84.0
+  }, {
+    "name": "Bike",
+    "score": 89.0
+  }]
+}, {
+  "O'Hare International Airport": [{
+    "name": "Dining & Drinking",
+    "score": 11.6583166122
+  }, {
+    "name": "Groceries",
+    "score": 0.775622904301
+  }, {
+    "name": "Shopping",
+    "score": 7.23576211929
+  }, {
+    "name": "Errands",
+    "score": 0
+  }, {
+    "name": "Parks",
+    "score": 0
+  }, {
+    "name": "Schools",
+    "score": 0
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 0
+  }, {
+    "name": "Walk",
+    "score": 4.0
+  }, {
+    "name": "Transit",
+    "score": 40.0
+  }, {
+    "name": "Bike",
+    "score": 28.0
+  }]
+}, {
+  "Calumet Heights": [{
+    "name": "Dining & Drinking",
+    "score": 47.9828453064
+  }, {
+    "name": "Groceries",
+    "score": 35.6310005188
+  }, {
+    "name": "Shopping",
+    "score": 37.5054168701
+  }, {
+    "name": "Errands",
+    "score": 67.4885940552
+  }, {
+    "name": "Parks",
+    "score": 78.1522903442
+  }, {
+    "name": "Schools",
+    "score": 92.2023239136
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 6.67901659012
+  }, {
+    "name": "Walk",
+    "score": 49.0
+  }, {
+    "name": "Transit",
+    "score": 57.0
+  }, {
+    "name": "Bike",
+    "score": 53.0
+  }]
+}, {
+  "Calumet River": [{
+    "name": "Dining & Drinking",
+    "score": 38.0962028503
+  }, {
+    "name": "Groceries",
+    "score": 0
+  }, {
+    "name": "Shopping",
+    "score": 0
+  }, {
+    "name": "Errands",
+    "score": 0
+  }, {
+    "name": "Parks",
+    "score": 5.17028808594
+  }, {
+    "name": "Schools",
+    "score": 27.9186668396
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 0
+  }, {
+    "name": "Walk",
+    "score": 10.0
+  }, {
+    "name": "Transit",
+    "score": 41.0
+  }, {
+    "name": "Bike",
+    "score": 31.0
+  }]
+}, {
+  "Bucktown": [{
+    "name": "Dining & Drinking",
+    "score": 88.231300354
+  }, {
+    "name": "Groceries",
+    "score": 68.8817520142
+  }, {
+    "name": "Shopping",
+    "score": 95.4775695801
+  }, {
+    "name": "Errands",
+    "score": 93.4895324707
+  }, {
+    "name": "Parks",
+    "score": 100.0
+  }, {
+    "name": "Schools",
+    "score": 96.6565704346
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 97.0242385864
+  }, {
+    "name": "Walk",
+    "score": 88.0
+  }, {
+    "name": "Transit",
+    "score": 72.0
+  }, {
+    "name": "Bike",
+    "score": 95.0
+  }]
+}, {
+  "Graceland West": [{
+    "name": "Dining & Drinking",
+    "score": 89.7863311768
+  }, {
+    "name": "Groceries",
+    "score": 68.1875686646
+  }, {
+    "name": "Shopping",
+    "score": 94.1818466187
+  }, {
+    "name": "Errands",
+    "score": 87.6517105103
+  }, {
+    "name": "Parks",
+    "score": 91.8395767212
+  }, {
+    "name": "Schools",
+    "score": 98.3452758789
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 90.206993103
+  }, {
+    "name": "Walk",
+    "score": 86.0
+  }, {
+    "name": "Transit",
+    "score": 76.0
+  }, {
+    "name": "Bike",
+    "score": 96.0
+  }]
+}, {
+  "Budlong Woods": [{
+    "name": "Dining & Drinking",
+    "score": 80.4120025635
+  }, {
+    "name": "Groceries",
+    "score": 92.6036224365
+  }, {
+    "name": "Shopping",
+    "score": 90.0882263184
+  }, {
+    "name": "Errands",
+    "score": 90.9812545776
+  }, {
+    "name": "Parks",
+    "score": 83.1194915771
+  }, {
+    "name": "Schools",
+    "score": 92.9559860229
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 86.810295105
+  }, {
+    "name": "Walk",
+    "score": 87.0
+  }, {
+    "name": "Transit",
+    "score": 61.0
+  }, {
+    "name": "Bike",
+    "score": 72.0
+  }]
+}, {
+  "Roseland": [{
+    "name": "Dining & Drinking",
+    "score": 61.498878479
+  }, {
+    "name": "Groceries",
+    "score": 92.3883743286
+  }, {
+    "name": "Shopping",
+    "score": 18.4773082733
+  }, {
+    "name": "Errands",
+    "score": 55.4876556396
+  }, {
+    "name": "Parks",
+    "score": 93.5867462158
+  }, {
+    "name": "Schools",
+    "score": 88.3937072754
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 6.64032697678
+  }, {
+    "name": "Walk",
+    "score": 59.0
+  }, {
+    "name": "Transit",
+    "score": 71.0
+  }, {
+    "name": "Bike",
+    "score": 49.0
+  }]
+}, {
+  "O'Hare": [{
+    "name": "Dining & Drinking",
+    "score": 66.076210022
+  }, {
+    "name": "Groceries",
+    "score": 91.0283813477
+  }, {
+    "name": "Shopping",
+    "score": 42.4941902161
+  }, {
+    "name": "Errands",
+    "score": 79.470703125
+  }, {
+    "name": "Parks",
+    "score": 33.7900810242
+  }, {
+    "name": "Schools",
+    "score": 82.2333831787
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 64.7316513062
+  }, {
+    "name": "Walk",
+    "score": 66.0
+  }, {
+    "name": "Transit",
+    "score": 60.0
+  }, {
+    "name": "Bike",
+    "score": 42.0
+  }]
+}, {
+  "Tally's Corner": [{
+    "name": "Dining & Drinking",
+    "score": 99.9266433716
+  }, {
+    "name": "Groceries",
+    "score": 92.9574813843
+  }, {
+    "name": "Shopping",
+    "score": 99.9970932007
+  }, {
+    "name": "Errands",
+    "score": 99.921875
+  }, {
+    "name": "Parks",
+    "score": 100.0
+  }, {
+    "name": "Schools",
+    "score": 93.4942932129
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 100.0
+  }, {
+    "name": "Walk",
+    "score": 98.0
+  }, {
+    "name": "Transit",
+    "score": 100.0
+  }, {
+    "name": "Bike",
+    "score": 81.0
+  }]
+}, {
+  "Belmont Central": [{
+    "name": "Dining & Drinking",
+    "score": 79.1198272705
+  }, {
+    "name": "Groceries",
+    "score": 92.1024703979
+  }, {
+    "name": "Shopping",
+    "score": 73.8500671387
+  }, {
+    "name": "Errands",
+    "score": 73.5757675171
+  }, {
+    "name": "Parks",
+    "score": 87.8538513184
+  }, {
+    "name": "Schools",
+    "score": 69.2170257568
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 8.96337795258
+  }, {
+    "name": "Walk",
+    "score": 74.0
+  }, {
+    "name": "Transit",
+    "score": 58.0
+  }, {
+    "name": "Bike",
+    "score": 75.0
+  }]
+}, {
+  "Wrightwood": [{
+    "name": "Dining & Drinking",
+    "score": 38.4160270691
+  }, {
+    "name": "Groceries",
+    "score": 4.07641983032
+  }, {
+    "name": "Shopping",
+    "score": 44.5553474426
+  }, {
+    "name": "Errands",
+    "score": 60.9962043762
+  }, {
+    "name": "Parks",
+    "score": 73.8908843994
+  }, {
+    "name": "Schools",
+    "score": 88.5657730103
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 41.8764228821
+  }, {
+    "name": "Walk",
+    "score": 42.0
+  }, {
+    "name": "Transit",
+    "score": 56.0
+  }, {
+    "name": "Bike",
+    "score": 50.0
+  }]
+}, {
+  "South Chicago": [{
+    "name": "Dining & Drinking",
+    "score": 76.259803772
+  }, {
+    "name": "Groceries",
+    "score": 98.343963623
+  }, {
+    "name": "Shopping",
+    "score": 72.9329223633
+  }, {
+    "name": "Errands",
+    "score": 75.0366897583
+  }, {
+    "name": "Parks",
+    "score": 91.2732009888
+  }, {
+    "name": "Schools",
+    "score": 89.5201339722
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 11.5800666809
+  }, {
+    "name": "Walk",
+    "score": 77.0
+  }, {
+    "name": "Transit",
+    "score": 62.0
+  }, {
+    "name": "Bike",
+    "score": 54.0
+  }]
+}, {
+  "North Park": [{
+    "name": "Dining & Drinking",
+    "score": 61.9410858154
+  }, {
+    "name": "Groceries",
+    "score": 96.0751647949
+  }, {
+    "name": "Shopping",
+    "score": 65.3741531372
+  }, {
+    "name": "Errands",
+    "score": 73.2182235718
+  }, {
+    "name": "Parks",
+    "score": 89.1682128906
+  }, {
+    "name": "Schools",
+    "score": 97.4870986938
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 13.1303129196
+  }, {
+    "name": "Walk",
+    "score": 66.0
+  }, {
+    "name": "Transit",
+    "score": 45.0
+  }, {
+    "name": "Bike",
+    "score": 63.0
+  }]
+}, {
+  "Lake View": [{
+    "name": "Dining & Drinking",
+    "score": 96.4692153931
+  }, {
+    "name": "Groceries",
+    "score": 86.6387329102
+  }, {
+    "name": "Shopping",
+    "score": 97.9398574829
+  }, {
+    "name": "Errands",
+    "score": 97.9365539551
+  }, {
+    "name": "Parks",
+    "score": 86.3788070679
+  }, {
+    "name": "Schools",
+    "score": 88.1085281372
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 100.0
+  }, {
+    "name": "Walk",
+    "score": 93.0
+  }, {
+    "name": "Transit",
+    "score": 82.0
+  }, {
+    "name": "Bike",
+    "score": 78.0
+  }]
+}, {
+  "East Ukrainian Village": [{
+    "name": "Dining & Drinking",
+    "score": 96.2045516968
+  }, {
+    "name": "Groceries",
+    "score": 98.3309936523
+  }, {
+    "name": "Shopping",
+    "score": 96.405960083
+  }, {
+    "name": "Errands",
+    "score": 96.4343261719
+  }, {
+    "name": "Parks",
+    "score": 98.8856048584
+  }, {
+    "name": "Schools",
+    "score": 98.6499176025
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 97.3194351196
+  }, {
+    "name": "Walk",
+    "score": 97.0
+  }, {
+    "name": "Transit",
+    "score": 76.0
+  }, {
+    "name": "Bike",
+    "score": 96.0
+  }]
+}, {
+  "Galewood": [{
+    "name": "Dining & Drinking",
+    "score": 61.909778595
+  }, {
+    "name": "Groceries",
+    "score": 63.6061782837
+  }, {
+    "name": "Shopping",
+    "score": 74.9182434082
+  }, {
+    "name": "Errands",
+    "score": 73.8931427002
+  }, {
+    "name": "Parks",
+    "score": 82.5746688843
+  }, {
+    "name": "Schools",
+    "score": 72.9003753662
+  }, {
+    "name": "Culture & Entertainment",
+    "score": 61.3512954712
+  }, {
+    "name": "Walk",
+    "score": 67.0
+  }, {
+    "name": "Transit",
+    "score": 57.0
+  }, {
+    "name": "Bike",
+    "score": 71.0
+  }]
+}]
