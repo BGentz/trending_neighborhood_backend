@@ -5,10 +5,10 @@ import matplotlib.pyplot as plt
 from sklearn.cluster import KMeans
 from collections import Counter, defaultdict
 import math
-# from IPython import embed
+from IPython import embed
 
 
-filename = 'city_scrapes_converted'
+filename = 'zillow_city_scrapes_converted'
 
 with open(f'./{filename}.json') as f:
   data = json.load(f)
@@ -25,7 +25,7 @@ with open(f'./{filename}.json') as f:
 
 
 for key, value in enumerate(data):
-  for index in range(0, len(value['breakdown'])):
+  # for index in range(0, len(value['breakdown'])):
     walkscore.append(value['breakdown']['Walkability'])
     grocery.append(value['breakdown']['Groceries'])
     parks.append(value['breakdown']['Parks'])
@@ -45,15 +45,32 @@ for index in range(0, len(walkscore)):
 
 clustered_data = np.array(loc)
 
-total_clusters = 10
-clusters = KMeans(n_clusters=total_clusters).fit_predict(clustered_data)
+total_clusters = 11
+clusters = KMeans(n_clusters=total_clusters).fit(clustered_data)
+cluster_centers = clusters.cluster_centers_
+cluster_labels=clusters.predict(clustered_data)
 
-data = [i for i in zip(clusters, clustered_data)]
+# Compute cluster distances
+cluster_distances = []
+for center in cluster_centers:
+  sum = 0
+  for point in center:
+    sum += (point ** 2)
+  cluster_distances.append(math.sqrt(sum))
 
-print(data)
+distance_label_zip = list(zip(range(total_clusters),cluster_distances))
+distance_label_zip_sorted = sorted(distance_label_zip, key = lambda entry: entry[1])
+sorted_labels = [item[0] for item in distance_label_zip_sorted]
+
+for index in range(len(data)):
+  data[index]['Overall Score'] = sorted_labels.index(cluster_labels[index])*10
+
+# data = [i for i in zip(cluster_labels, clustered_data)]
+
+# print(data)
 
 output = []
 
-
+# embed()
 with open(f'./{filename}_output.json', 'w') as outfile:
-    json.dump(output, outfile)
+    json.dump(data, outfile)
