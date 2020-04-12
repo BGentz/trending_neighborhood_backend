@@ -5,33 +5,59 @@ import matplotlib.pyplot as plt
 from sklearn.cluster import KMeans
 from collections import Counter, defaultdict
 import math
-from IPython import embed
-# from .models import Neighborhoods
+import copy
+# from IPython import embed
 
-def cluster_and_rank(preferences=None):
-  # might refactor the preferences to accept dictionary so it's order independent
+
+def cluster_and_rank(loc_data, preferences_dict):
   """
   if no preferences are given, then the results are the same methodology as the original
-  preferences should be in list form in this order:
-  [walkscore, grocery, parks, errands, drink, shopping, culture, schools, transit, bike]
   """
   # consider changing file manipulation to django query if this is incorporated in the backend
-  filename = 'zillow_city_scrapes_converted'
+  # filename = 'zillow_city_scrapes_converted'
 
-  with open(f'./{filename}.json') as f:
+  # with open(f'./{filename}.json') as f:
     # django query for data (add filter if cities are added):
     # data = Neighborhoods.all()
-    data = json.load(f)
-    walkscore = []
-    grocery = []
-    parks = []
-    errands = []
-    drink = []
-    shopping = []
-    culture = []
-    schools = []
-    transit = []
-    bike = []
+  data = [item for item in loc_data]
+  walkscore = []
+  grocery = []
+  parks = []
+  errands = []
+  drink = []
+  shopping = []
+  culture = []
+  schools = []
+  transit = []
+  bike = []
+
+  # preferences should be in list form in this order:
+  # [walkscore, grocery, parks, errands, drink, shopping, culture, schools, transit, bike]
+  # unpack preferences_dict
+  preferences = []
+  preferences.append(preferences_dict['Walkability'])
+  if 'Groceries' in preferences_dict:
+    preferences.append(preferences_dict['Groceries'])
+  else:
+    preferences.append(1)
+  preferences.append(preferences_dict['Parks'])
+  if 'Errands' in preferences_dict:
+    preferences.append(preferences_dict['Errands'])
+  else:
+    preferences.append(1)
+  preferences.append(preferences_dict['Restaurants and Bars'])
+  preferences.append(preferences_dict['Shopping'])
+  preferences.append(preferences_dict['Entertainment'])
+  if 'Schools' in preferences_dict:
+    preferences.append(preferences_dict['Schools'])
+  else:
+    preferences.append(1)
+  preferences.append(preferences_dict['Public Transit'])
+  if 'Schools' in preferences_dict:
+    preferences.append(preferences_dict['Schools'])
+  else:
+    preferences.append(1)
+  # if the user submission only has 6 entries then append 1 so the scores aren't altered
 
 
   for key, value in enumerate(data):
@@ -53,10 +79,10 @@ def cluster_and_rank(preferences=None):
     loc.append([walkscore[index], grocery[index], parks[index], errands[index], drink[index], shopping[index], culture[index], schools[index], transit[index], bike[index]])
 
   # take input preferences and adjust the loc scores
-  if preference != None:
-    for entry_index in range(len(loc)):
-      for pref_index in range(len(preference)):
-        loc[entry_index][pref_index] *= preference[pref_index] 
+  # if preferences != None:
+  for entry_index in range(len(loc)):
+    for pref_index in range(len(preferences)):
+      loc[entry_index][pref_index] *= preferences[pref_index] 
 
 
   clustered_data = np.array(loc)
@@ -84,7 +110,7 @@ def cluster_and_rank(preferences=None):
   # output = []
 
   # embed()
-  with open(f'./{filename}_output.json', 'w') as outfile:
-      json.dump(data, outfile)
+  # with open(f'./{filename}_output.json', 'w') as outfile:
+  #     json.dump(data, outfile)
   
   return data
