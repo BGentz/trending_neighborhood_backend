@@ -15,6 +15,9 @@ def user_submit(request):
     query = Neighborhoods.objects.filter(city__iexact=received['city']).all()
     serialized_hoods = NieghborhoodSerializer(query).all_neighborhoods
     category_scores = received['categories']
+    for key, value in enumerate(category_scores):
+        category_scores[value] = category_scores[value][1]
+
     if sum(list(category_scores.values())) == 0:
         return JsonResponse(data=serialized_hoods['data'], safe=False, status=200)
     else:
