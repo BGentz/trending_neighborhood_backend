@@ -13,8 +13,8 @@ class NieghborhoodSerializer(object):
             hood_obj["Neighborhood"]= hood.neighborhood_name
             hood_obj["Overall Score"]= hood.overall_score
             hood_obj["breakdown"]= {
-                "Walkability": hood.walkability_score,
-                "Groceries": hood.groceries_score,
+                "Walkability": float(hood.walkability_score),
+                "Groceries": float(hood.groceries_score),
                 "Parks": float(hood.parks_score),
                 "Errands": float(hood.errands_score),
                 "Restaurants and Bars":float (hood.restaurants_bars_score),

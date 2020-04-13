@@ -52,9 +52,12 @@ def cluster_and_rank(loc_data, preferences_dict):
     preferences.append(preferences_dict['Schools'])
   else:
     preferences.append(1)
-  preferences.append(preferences_dict['Public Transit'])
-  if 'Schools' in preferences_dict:
-    preferences.append(preferences_dict['Schools'])
+  if 'Public Transit' in preferences_dict:
+    preferences.append(preferences_dict['Public Transit'])
+  else:
+    preferences.append(1)
+  if 'Biking' in preferences_dict:
+    preferences.append(preferences_dict['Biking'])
   else:
     preferences.append(1)
   # if the user submission only has 6 entries then append 1 so the scores aren't altered
@@ -87,7 +90,7 @@ def cluster_and_rank(loc_data, preferences_dict):
 
   clustered_data = np.array(loc)
 
-  total_clusters = 11
+  total_clusters = 21
   clusters = KMeans(n_clusters=total_clusters).fit(clustered_data)
   cluster_centers = clusters.cluster_centers_
   cluster_labels=clusters.predict(clustered_data)
@@ -105,7 +108,7 @@ def cluster_and_rank(loc_data, preferences_dict):
   sorted_labels = [item[0] for item in distance_label_zip_sorted]
 
   for index in range(len(data)):
-    data[index]['Overall Score'] = sorted_labels.index(cluster_labels[index])*10
+    data[index]['Overall Score'] = sorted_labels.index(cluster_labels[index])*5
 
   # output = []
 
