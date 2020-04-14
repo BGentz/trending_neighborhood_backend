@@ -6,7 +6,7 @@ from sklearn.cluster import KMeans
 from collections import Counter, defaultdict
 import math
 import copy
-# from IPython import embed
+from IPython import embed
 
 
 def cluster_and_rank(loc_data, preferences_dict):
@@ -34,36 +34,37 @@ def cluster_and_rank(loc_data, preferences_dict):
   # preferences should be in list form in this order:
   # [walkscore, grocery, parks, errands, drink, shopping, culture, schools, transit, bike]
   # unpack preferences_dict
-  preferences = []
-  preferences.append(preferences_dict['Walkability'])
-  if 'Groceries' in preferences_dict:
+  if preferences_dict == {}:
+    preferences = [100]*10
+  else:  
+    preferences = []
+    preferences.append(preferences_dict['Walkability'])
     preferences.append(preferences_dict['Groceries'])
-  else:
-    preferences.append(1)
-  preferences.append(preferences_dict['Parks'])
-  if 'Errands' in preferences_dict:
+    preferences.append(preferences_dict['Parks'])
     preferences.append(preferences_dict['Errands'])
-  else:
-    preferences.append(1)
-  preferences.append(preferences_dict['Restaurants and Bars'])
-  preferences.append(preferences_dict['Shopping'])
-  preferences.append(preferences_dict['Entertainment'])
-  if 'Schools' in preferences_dict:
+    preferences.append(preferences_dict['Restaurants and Bars'])
+    preferences.append(preferences_dict['Shopping'])
+    preferences.append(preferences_dict['Entertainment'])
     preferences.append(preferences_dict['Schools'])
-  else:
-    preferences.append(1)
-  if 'Public Transit' in preferences_dict:
     preferences.append(preferences_dict['Public Transit'])
-  else:
-    preferences.append(1)
-  if 'Biking' in preferences_dict:
     preferences.append(preferences_dict['Biking'])
-  else:
-    preferences.append(1)
-  # if the user submission only has 6 entries then append 1 so the scores aren't altered
+
+  # Rescale data for reproducing results:
+  def rescale_data(num):
+    max = 100
+    min = 0
+    n_new = (num - min) / (max - min)
+    return n_new
+
+  # compute vector norm for clustering
+  def compute_distance(array):
+    n = 0
+    for num in array:
+      n += (num**2)
+    return math.sqrt(n)
 
 
-  for key, value in enumerate(data):
+  for value in data:
       walkscore.append(value['breakdown']['Walkability'])
       grocery.append(value['breakdown']['Groceries'])
       parks.append(value['breakdown']['Parks'])
@@ -79,29 +80,32 @@ def cluster_and_rank(loc_data, preferences_dict):
 
 
   for index in range(0, len(walkscore)):
-    loc.append([walkscore[index], grocery[index], parks[index], errands[index], drink[index], shopping[index], culture[index], schools[index], transit[index], bike[index]])
+    loc.append(([walkscore[index], grocery[index], parks[index], errands[index], drink[index], shopping[index], culture[index], schools[index], transit[index], bike[index]]))
 
   # take input preferences and adjust the loc scores
-  # if preferences != None:
   for entry_index in range(len(loc)):
     for pref_index in range(len(preferences)):
-      loc[entry_index][pref_index] *= preferences[pref_index] 
+      if preferences[pref_index] == 99:
+        loc[entry_index][pref_index] *= (preferences[pref_index] + 1) 
+      else:
+        loc[entry_index][pref_index] *= preferences[pref_index] 
+      loc[entry_index][pref_index] = rescale_data(loc[entry_index][pref_index])
 
-
-  clustered_data = np.array(loc)
+  pre_clustered_data = np.array(loc)
+  clustered_data = np.array([])
+  for row in pre_clustered_data:
+    clustered_data = np.append(clustered_data,compute_distance(row))
+  clustered_data = clustered_data.reshape(-1,1)
+  
 
   total_clusters = 21
-  clusters = KMeans(n_clusters=total_clusters).fit(clustered_data)
+  clusters = KMeans(n_clusters=total_clusters, random_state = 42).fit(clustered_data)
   cluster_centers = clusters.cluster_centers_
   cluster_labels=clusters.predict(clustered_data)
 
-  # Compute cluster distances
-  cluster_distances = []
-  for center in cluster_centers:
-    sum = 0
-    for point in center:
-      sum += (point ** 2)
-    cluster_distances.append(math.sqrt(sum))
+  # reshape to 1d array
+  cluster_distances = cluster_centers.reshape(21)
+
 
   distance_label_zip = list(zip(range(total_clusters),cluster_distances))
   distance_label_zip_sorted = sorted(distance_label_zip, key = lambda entry: entry[1])
@@ -109,11 +113,5 @@ def cluster_and_rank(loc_data, preferences_dict):
 
   for index in range(len(data)):
     data[index]['Overall Score'] = sorted_labels.index(cluster_labels[index])*5
-
-  # output = []
-
-  # embed()
-  # with open(f'./{filename}_output.json', 'w') as outfile:
-  #     json.dump(data, outfile)
   
   return data
