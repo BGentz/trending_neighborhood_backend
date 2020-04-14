@@ -19,11 +19,9 @@ def user_submit(request):
 
     category_scores = received['categories']
 
-    # for key, value in enumerate(category_scores):
-    #     category_scores[value] = category_scores[value][1]
-
     if sum(list(category_scores.values())) == 0:
-        return JsonResponse(data=serialized_hoods['data'], safe=False, status=200)
+        output = cluster_and_rank(serialized_hoods['data'], {})
+        return JsonResponse(data=output, safe=False, status=200)
     else:
         output = cluster_and_rank(serialized_hoods['data'],category_scores)
         return JsonResponse(data=output, safe=False, status=200)
@@ -31,10 +29,12 @@ def user_submit(request):
 def neighborhoods_data(request, city):
     query = Neighborhoods.objects.filter(city__iexact=city).all()
     serialized_hoods = NieghborhoodSerializer(query).all_neighborhoods
-    return JsonResponse(data=serialized_hoods['data'], safe=False, status=200)
+    output = cluster_and_rank(serialized_hoods['data'], {})
+    return JsonResponse(data=output, safe=False, status=200)
 
 
 def events(request, city):
+    # replace with environ variables for deployment
     api = 'PDPGOtbKM8m0PSczgsJmwG85AMd2XiTh'
     url = f"https://app.ticketmaster.com/discovery/v2/events.json?city={city}&apikey={api}"
     results = requests.get(url)
