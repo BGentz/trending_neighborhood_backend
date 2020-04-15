@@ -1,6 +1,6 @@
 from builtins import object
 
-class NieghborhoodSerializer(object):
+class NeighborhoodSerializer(object):
     def __init__(self, body):
         self.body = body
 
