@@ -16,5 +16,10 @@ class Neighborhoods(models.Model):
     transit_scores = models.DecimalField(max_digits=13, decimal_places=10)
     bike_scores = models.DecimalField(max_digits=13, decimal_places=10)
 
-# class GeoJSONHoods(models.Model):
-    # TBD 
+# class NeighborhoodCenter(models.Model):
+#     city = models.CharField(max_length=50)
+
+# class CityCenter(models.Model):
+#     city = models.CharField(max_length=50)
+
+    

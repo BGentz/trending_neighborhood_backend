@@ -2,12 +2,11 @@
 from django.views.decorators.csrf import csrf_exempt
 import json
 from django.http import JsonResponse, HttpResponse
-# from .predictor import predict
 from .models import Neighborhoods
-from .serializer import NieghborhoodSerializer
+from .serializer import NeighborhoodSerializer
 from .helpers.kMeans_estimator import cluster_and_rank
 import requests
-# from IPython import embed
+from IPython import embed
 
 
 
@@ -15,7 +14,7 @@ import requests
 def user_submit(request):
     received = json.load(request)
     query = Neighborhoods.objects.filter(city__iexact=received['city']).all()
-    serialized_hoods = NieghborhoodSerializer(query).all_neighborhoods
+    serialized_hoods = NeighborhoodSerializer(query).all_neighborhoods
 
     category_scores = received['categories']
 
@@ -28,7 +27,7 @@ def user_submit(request):
 
 def neighborhoods_data(request, city):
     query = Neighborhoods.objects.filter(city__iexact=city).all()
-    serialized_hoods = NieghborhoodSerializer(query).all_neighborhoods
+    serialized_hoods = NeighborhoodSerializer(query).all_neighborhoods
     output = cluster_and_rank(serialized_hoods['data'], {})
     return JsonResponse(data=output, safe=False, status=200)
 
@@ -45,6 +44,7 @@ def events(request, city):
     for event in results['_embedded']['events']:
         event_list.append(
             {
+                'eventName': event['name'],
                 'eventUrl': event['url'],
                 'eventType': event['type'],
                 'images': event['images'],
@@ -59,10 +59,3 @@ def events(request, city):
 
     return JsonResponse(data=event_list, safe=False, status=200)
 
-
-# def Neighborhoods_detail(request, name):
-#     # add city into request if we have more cities
-#     # add filter by city if expanded
-#     query = Neighborhoods.get(neighborhood_name = name)
-#     # needs serializer
-#     return JsonResponse(data=query, status=200)
